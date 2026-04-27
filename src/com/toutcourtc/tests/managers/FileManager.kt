@@ -23,8 +23,13 @@ class FileManager {
         }
 
         fun getFile(fileName: String, dir: String = ROOT): File? {
+            var directory = dir
+            if(dir != ROOT){
+                createFolder(dir)
+                directory = ROOT + "\\$dir"
+            }
             // Définir le chemin du fichier
-            val file = File(dir, fileName)
+            val file = File(directory, fileName)
 
             // Créer le fichier s'il n'existe pas
             if (!file.exists()) {

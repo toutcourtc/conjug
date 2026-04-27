@@ -23,8 +23,47 @@ val verbesAccents = (eler + eter + erer + exxer).values.filter{it.endsWith("aien
 
 fun main() {
 
-    extractInfinitifs()
+    extractEntre()
 
+}
+private fun extractTirets(){
+    val file = getFile("tirets.txt", "output")
+    val tirets = verbs.filter{it.contains("-")}
+        .filter{!it.startsWith("entre-")}
+        .filter{!it.startsWith("contre-")}
+
+    val couples : MutableList<String> = mutableListOf()
+    tirets.forEach {
+        var output = it
+        if(verbs.contains(it.replace("-", ""))) output += " ; ${it.replace("-", "")}"
+        couples.add(output)
+    }
+    val data = couples.joinToString("\n")
+    file?.writeText(data)
+}
+private fun extractContre(){
+    val file = getFile("contre.txt", "output")
+    val contres = verbs.filter{it.startsWith("contre-")}
+    val couples : MutableList<String> = mutableListOf()
+    contres.forEach {
+        var output = it
+        if(verbs.contains(it.replace("-", ""))) output += " ; ${it.replace("-", "")}"
+        couples.add(output)
+    }
+    val data = couples.joinToString("\n")
+    file?.writeText(data)
+}
+private fun extractEntre(){
+    val file = getFile("entre.txt", "output")
+    val entres = verbs.filter{it.startsWith("entre-")}
+    val couples : MutableList<String> = mutableListOf()
+    entres.forEach {
+        var output = it
+        if(verbs.contains(it.replace("-", ""))) output += " ; ${it.replace("-", "")}"
+        couples.add(output)
+    }
+    val data = couples.joinToString("\n")
+    file?.writeText(data)
 }
 private fun extractInfinitifs(){
     val src = getFile("infinitifs.txt")
