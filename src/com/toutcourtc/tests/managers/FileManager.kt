@@ -6,7 +6,7 @@ import java.io.File
 class FileManager {
     companion object{
 
-        fun createFolder(folderName: String, dir: String = ROOT): File? {
+        private fun createFolder(folderName: String, dir: String = ROOT): File? {
             // Définir le chemin du dossier à créer
 
             val folder = File(dir, folderName)

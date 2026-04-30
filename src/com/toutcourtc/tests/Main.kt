@@ -3,8 +3,10 @@ package com.toutcourtc.tests
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import com.toutcourtc.tests.managers.DateManager.Companion.formattedDate
 import com.toutcourtc.tests.managers.FileManager.Companion.getFile
 import com.toutcourtc.tests.managers.StringManager.Companion.triFr
+import com.toutcourtc.tests.managers.VerbsManager.Companion.loadVerbs
 import com.toutcourtc.tests.verbes.AppelerJeter.Companion.appelerJeter
 import com.toutcourtc.tests.verbes.Infinitifs1.Companion.infinitifs1
 import com.toutcourtc.tests.verbes.Infinitifs2.Companion.infinitifs2
@@ -23,7 +25,12 @@ val verbesAccents = (eler + eter + erer + exxer).values.filter{it.endsWith("aien
 
 fun main() {
 
-    extractEntre()
+    val date = System.currentTimeMillis()
+    val formatted = date.formattedDate()
+    println(formatted)
+//    loadVerbs()
+
+
 
 }
 private fun extractTirets(){
