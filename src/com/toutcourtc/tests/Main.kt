@@ -3,16 +3,14 @@ package com.toutcourtc.tests
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.toutcourtc.tests.managers.DateManager.Companion.formattedDate
 import com.toutcourtc.tests.managers.FileManager.Companion.getFile
 import com.toutcourtc.tests.managers.StringManager.Companion.triFr
-import com.toutcourtc.tests.managers.VerbsManager.Companion.loadVerbs
 import com.toutcourtc.tests.verbes.AppelerJeter.Companion.appelerJeter
+import com.toutcourtc.tests.verbes.ElerEterSansDoublement.Companion.elerEterSansDoubelement
 import com.toutcourtc.tests.verbes.Infinitifs1.Companion.infinitifs1
 import com.toutcourtc.tests.verbes.Infinitifs2.Companion.infinitifs2
 import com.toutcourtc.tests.verbes.Infinitifs3.Companion.infinitifs3
 import com.toutcourtc.tests.verbes.Infinitifs4.Companion.infinitifs4
-import com.toutcourtc.tests.verbes.ElerEterSansDoublement.Companion.elerEterSansDoubelement
 import com.toutcourtc.tests.verbes.InfinitifsVariantes.Companion.variantesVerbes
 import com.toutcourtc.tests.verbes.accentsaiguversgrave.StringHarmonizationEler.Companion.eler
 import com.toutcourtc.tests.verbes.accentsaiguversgrave.StringHarmonizationErer.Companion.erer
@@ -25,13 +23,34 @@ val verbesAccents = (eler + eter + erer + exxer).values.filter{it.endsWith("aien
 
 fun main() {
 
-    val date = System.currentTimeMillis()
-    val formatted = date.formattedDate()
-    println(formatted)
-//    loadVerbs()
+    val l = "#oiuyt"
+    println(l.split("#"))
 
+}
+private fun findAyer(){
+    val output = getFile("ayer.txt", "output")
+    val file = getFile("infinitifs_full.txt")
+    val verbes = file?.readLines()?.filter{it.isNotEmpty()}?.map{it.trim()}?.filter{it.endsWith("ayer")}
+    val data = verbes?.joinToString("\n")
+    output?.writeText(data!!)
+}
+private fun checkDoublons(){
+    val file = getFile("variantes_autres.txt", "assets")
+    val output = getFile("doublons.txt", "output")
 
-
+    val lines = file?.readLines()
+    val words = lines?.filter{it.isNotEmpty()}
+        ?.map{it.split(",")
+            .first().split(" to ")
+            .first()
+            .replace("\"", "")
+            .trim()}
+    var data = ""
+    words?.forEach { word ->
+        val nbOccurences = words.filter{w -> w == word}.size
+        if(nbOccurences >= 2) data += "$word\n"
+    }
+    output?.writeText(data.trim())
 }
 private fun extractTirets(){
     val file = getFile("tirets.txt", "output")
@@ -155,10 +174,12 @@ private fun verbesModifAccentsAll(){
 }
 
 private fun fichierVerbesExxer(){
-    val verbesEler = getFile("verbes/verbes_exxer.txt")
+    val verbesEler = getFile("verbes/verbes_éxexxer.txt")
     var data = ""
 //    val regex = Regex("(.*)é(.{1,2}er)$")
-    val regex = Regex("(.*)é([^aeiouéèêëàâîïôûù]{2}er)$")
+//    val regex = Regex("(.*)é([^aeiouéèêëàâîïôûù]{2}er)$")
+    val regex = Regex("(.*)è[^aeiouéèêëàâîïôûù]e([^aeiouéèêëàâîïôûù]er)$")
+//    crèneler
 
     //val regex = Regex("(.*)é((?!en|bl|tr)[^aeiouyéèêëàâîïôûùAEIOUY]{1,2}er)$")
 

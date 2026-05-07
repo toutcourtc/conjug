@@ -336,6 +336,7 @@ ahurir
 aicher
 aider
 aigrir
+aigayer
 aiguayer
 aiguer
 aiguiller
@@ -830,6 +831,7 @@ autodissoudre
 autoéditer
 autoévaluer
 auto-évoluer
+autoévoluer
 autoféconder
 autofinancer
 autoflageller
@@ -1474,6 +1476,7 @@ buvarder
 buvoter
 buzzer
 by-passer
+bypasser
 byzantiner
 cabaler
 cabaliser
@@ -5321,6 +5324,7 @@ fâcher
 faciliter
 façonner
 fac-similer
+facsimiler
 factionner
 factoriser
 facturer

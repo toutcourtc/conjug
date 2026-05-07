@@ -1,0 +1,734 @@
+
+"abrégement" to "abrègement",
+"abrégements" to "abrègements",
+
+"afféterie" to "affèterie",
+"afféteries" to "affèteries",
+
+"allégement" to "allègement",
+"allégements" to "allègements",
+
+"allégrement" to "allègrement", // Adverbe
+
+"allegretto" to "allégretto",
+"allegrettos" to "allégrettos",
+
+"allegro" to "allégro",
+"allegros" to "allégros",
+
+"artefact" to "artéfact",
+"artefacts" to "artéfacts",
+
+"asséchement" to "assèchement",
+"asséchements" to "assèchements",
+
+"barcarolle" to "barcarole",
+"barcarolles" to "barcaroles",
+
+"besicles" to "bésicles",
+
+"besiclard" to "bésiclard",
+"besiclards" to "bésiclards",
+
+"besicleux" to "bésicleux",
+
+"bizuth" to "bizut",
+"bizuths" to "bizuts",
+
+"bonhomie" to "bonhommie",
+"bonhomies" to "bonhommies",
+
+"boursouflement" to "boursoufflement",
+"boursouflements" to "boursoufflements",
+
+"boursouflure" to "boursoufflure",
+"boursouflures" to "boursoufflures",
+
+"bouterolle" to "bouterole",
+"bouterolles" to "bouteroles",
+
+"brasero" to "braséro",
+"braseros" to "braséros",
+
+"cahute" to "cahutte",
+"cahutes" to "cahuttes",
+
+"candela" to "candéla",
+"candelas" to "candélas",
+
+"céleri" to "cèleri",
+"céleris" to "cèleris",
+
+"chariot" to "charriot",
+"chariots" to "charriots",
+
+"chebec" to "chébec",
+"chebecs" to "chébecs",
+
+"chéchia" to "chéchia",
+"chéchias" to "chéchias",
+
+"cicerone" to "cicérone",
+"cicerones" to "cicérones",
+
+"combatif" to "combattif",
+"combatifs" to "combattifs",
+
+"combativité" to "combattivité",
+"combativités" to "combattivités",
+
+"complétement" to "complètement", // Adverbe
+
+"condottiere" to "condottière",
+"condottieres" to "condottières",
+"condottieri" to "condottières", // Pluriel régularisé en -s
+
+"corolle" to "corole",
+"corolles" to "coroles",
+
+"crémerie" to "crèmerie",
+"crémeries" to "crèmeries",
+
+"crénelage" to "crènelage",
+"crénelages" to "crènelages",
+
+"créneler" to "crèneler", // Verbe (pas de pluriel)
+"crénelure" to "crènelure",
+"crénelures" to "crènelures",
+
+"crételer" to "crèteler", // Verbe
+
+"criterium" to "critérium",
+"criteriums" to "critériums",
+
+"cuissot" to "cuisseau",
+"cuissots" to "cuisseaux",
+
+"dessiller" to "déciller", // Verbe
+
+"decrescendo" to "décrescendo",
+"decrescendos" to "décrescendos",
+
+"deleatur" to "déléatur",
+"deleaturs" to "déléaturs",
+
+"demiurge" to "démiurge",
+"demiurges" to "démiurges",
+
+"dentellière" to "dentelière",
+"dentellières" to "dentelières",
+
+"diesel" to "diésel",
+"diesels" to "diésels",
+
+"dissous" to "dissout",
+
+"douceâtre" to "douçâtre",
+"douceâtres" to "douçâtres",
+
+"duodenum" to "duodénum",
+"duodenums" to "duodénums",
+
+"edelweiss" to "édelweiss",
+
+"embatre" to "embattre", // Verbe
+
+"empiétement" to "empiètement",
+"empiétements" to "empiètements",
+
+"événement" to "évènement",
+"événements" to "évènements",
+
+"exeat" to "exéat",
+"exeats" to "exéats",
+
+"eczéma" to "exéma",
+"eczémas" to "exémas",
+
+"exequatur" to "exéquatur",
+"exequaturs" to "exéquaturs",
+
+"feverole" to "fèverole",
+"feveroles" to "fèveroles",
+
+"fumerolle" to "fumerole",
+"fumerolles" to "fumeroles",
+
+"gelinotte" to "gélinotte",
+"gelinottes" to "gélinottes",
+
+"girolle" to "girole",
+"girolles" to "giroles",
+
+"grolle" to "grole",
+"grolles" to "groles",
+
+"guibolle" to "guibole",
+"guibolles" to "guiboles",
+
+"ghilde" to "guilde",
+"ghildes" to "guildes",
+
+"hébétement" to "hébètement",
+"hébétements" to "hébètements",
+
+"homoeostat" to "homéostat",
+"homoeostats" to "homéostats",
+"homœostat" to "homéostat",
+"homœostats" to "homéostats",
+
+"homoeopathe" to "homéopathe",
+"homoeopathes" to "homéopathes",
+"homœopathe" to "homéopathe",
+"homœopathes" to "homéopathes",
+
+"homoeotique" to "homéotique",
+"homoeotiques" to "homéotiques",
+"homœotique" to "homéotique",
+"homœotiques" to "homéotiques",
+
+"homoeomorphe" to "homéomorphe",
+"homoeomorphes" to "homéomorphes",
+"homœomorphe" to "homéomorphe",
+"homœomorphes" to "homéomorphes",
+
+"homoeomorphie" to "homéomorphie",
+"homoeomorphies" to "homéomorphies",
+"homœomorphie" to "homéomorphie",
+"homœomorphies" to "homéomorphies",
+
+"homoeomorphisme" to "homéomorphisme",
+"homoeomorphismes" to "homéomorphismes",
+"homœomorphisme" to "homéomorphisme",
+"homœomorphismes" to "homéomorphismes",
+
+"homoeostasie" to "homéostasie",
+"homoeostasies" to "homéostasies",
+"homœostasie" to "homéostasie",
+"homœostasies" to "homéostasies"
+
+"homoeotherme" to "homéotherme",
+"homoeothermes" to "homéothermes",
+"homœotherme" to "homéotherme",
+"homœothermes" to "homéothermes",
+
+"homoeothermie" to "homéothermie",
+"homoeothermies" to "homéothermies",
+"homœothermie" to "homéothermie",
+"homœothermies" to "homéothermies",
+
+"homoeotypique" to "homéotypique",
+"homoeotypiques" to "homéotypiques",
+"homœotypique" to "homéotypique",
+"homœotypiques" to "homéotypiques",
+
+"homoeopathique" to "homéopathique",
+"homoeopathiques" to "homéopathiques",
+"homœopathique" to "homéopathique",
+"homœopathiques" to "homéopathiques",
+
+"homoeostatique" to "homéostatique",
+"homoeostatiques" to "homéostatiques",
+"homœostatique" to "homéostatique",
+"homœostatiques" to "homéostatiques",
+
+"imbécillité" to "imbécilité",
+"imbécillités" to "imbécilités",
+
+"impresario" to "imprésario",
+"impresarios" to "imprésarios",
+
+"innomé" to "innommé",
+"innomés" to "innommés",
+
+"interpeller" to "interpeler",
+
+"jejunum" to "jéjunum",
+"jejunums" to "jéjunums",
+
+"joaillier" to "joailler",
+"joailliers" to "joaillers",
+
+"kakemono" to "kakémono",
+"kakemonos" to "kakémonos",
+
+"levraut" to "levreau",
+"levrauts" to "levreaux",
+
+"lignerolle" to "lignerole",
+"lignerolles" to "ligneroles",
+
+"linoleum" to "linoléum",
+"linoleums" to "linoléums",
+
+"lunettier" to "lunetier",
+"lunettiers" to "lunetiers",
+
+"marguillier" to "marguiller",
+"marguilliers" to "marguillers",
+
+"mariolle" to "mariole",
+"mariolles" to "marioles",
+
+"media" to "média",
+"medias" to "médias",
+
+"mehalla" to "méhalla",
+"mehallas" to "méhallas",
+
+"memento" to "mémento",
+"mementos" to "mémentos",
+
+"memorandum" to "mémorandum",
+"memorandums" to "mémorandums",
+
+"muserolle" to "muserole",
+"muserolles" to "museroles",
+
+"nénuphar" to "nénufar",
+"nénuphars" to "nénufars",
+
+"oignon" to "ognon",
+"oignons" to "ognons",
+
+"ouillière" to "ouillère",
+"ouillières" to "ouillères",
+
+"pagaïe" to "pagaille",
+"pagaïes" to "pagailles",
+"pagaye" to "pagaille",
+"pagayes" to "pagailles",
+
+"pedigree" to "pédigrée",
+"pedigrees" to "pédigrées",
+
+"perestroïka" to "pérestroïka",
+"perestroïkas" to "pérestroïkas",
+
+"persiflage" to "persifflage",
+"persiflages" to "persifflages",
+
+"persifler" to "persiffler",
+"persiffleur" to "persiffleur",
+"persiffleurs" to "persiffleurs",
+
+"peseta" to "péséta",
+"pesetas" to "pésétas",
+
+"peso" to "péso",
+"pesos" to "pésos",
+
+"pieta" to "piéta",
+"pietas" to "piétas",
+
+"placebo" to "placébo",
+"placebos" to "placébos",
+
+"punch" to "ponch",
+"punchs" to "ponchs",
+
+"proscenium" to "proscénium",
+"prosceniums" to "proscéniums",
+
+"prunellier" to "prunelier",
+"prunelliers" to "pruneliers",
+
+"québécois" to "québécois",
+"québécois" to "québécois",
+
+"quincaillier" to "quincailler",
+"quincailliers" to "quincaillers",
+
+"rasseoir" to "rassoir", // Verbe
+"receler" to "recéler", // Verbe
+"recepage" to "recépage",
+"recepages" to "recépages",
+"recepée" to "récépée",
+"recepées" to "récépées",
+"receper" to "recéper", // Verbe
+
+"reclusionnaire" to "réclusionnaire",
+"reclusionnaires" to "réclusionnaires",
+
+"referendum" to "référendum",
+"referendums" to "référendums",
+
+"refréner" to "réfréner", // Verbe (inchangé ici)
+
+"réglementaire" to "règlementaire",
+"réglementaires" to "règlementaires",
+
+"réglementairement" to "règlementairement", // Adverbe
+
+"réglementation" to "règlementation",
+"réglementations" to "règlementations",
+
+"réglementer" to "règlementer", // Verbe
+
+"revolver" to "révolver",
+"revolvers" to "révolvers",
+
+"rousserolle" to "rousserole",
+"rousserolles" to "rousseroles",
+
+"saccharine" to "saccarine",
+"saccharines" to "saccarines",
+
+"skons" to "sconse",
+"skons" to "sconses",
+
+"sécheresse" to "sècheresse",
+"sécheresses" to "sècheresses",
+
+"sécherie" to "sècherie",
+"sécheries" to "sècheries",
+
+"seneçon" to "sèneçon",
+"seneçons" to "sèneçons",
+
+"senescence" to "sénescence",
+"senescences" to "sénescences",
+
+"senestre" to "sénestre",
+"senestres" to "sénestres",
+
+"senevé" to "sènevé",
+"senevés" to "sènevés",
+
+"senior" to "sénior",
+"seniors" to "séniors",
+
+"sequoia" to "séquoia",
+"sequoias" to "séquoias",
+
+"serapeum" to "sérapéum",
+"serapeums" to "sérapéums",
+
+"serpillière" to "serpillère",
+"serpillières" to "serpillères",
+
+"sombrero" to "sombréro",
+"sombreros" to "sombréros",
+
+"sorgho" to "sorgo",
+"sorghos" to "sorgos",
+
+"sotie" to "sottie",
+"soties" to "sotties",
+
+"speculum" to "spéculum",
+"speculums" to "spéculums",
+
+"surseoir" to "sursoir", // Verbe
+
+"tavaïolle" to "tavaïole",
+"tavaïolles" to "tavaïoles",
+
+"teocalli" to "téocalli",
+"teocallis" to "téocallis",
+
+"tepidarium" to "tépidarium",
+"tepidariums" to "tépidariums",
+
+"toccade" to "tocade",
+"toccades" to "tocades",
+
+"tremolo" to "trémolo",
+"tremolos" to "trémolos",
+
+"trolle" to "trole",
+"trolles" to "troles",
+
+"velarium" to "vélarium",
+"velariums" to "vélariums",
+
+"velum" to "vélum",
+"velums" to "vélums",
+
+"vénerie" to "vènerie",
+"véneries" to "vèneries",
+
+"vantail" to "ventail",
+"vantaux" to "ventaux",
+
+"veto" to "véto",
+"vetos" to "vétos",
+
+"zarzuela" to "zarzuéla",
+"zarzuelas" to "zarzuélas"
+
+"arc-boutant" to "arcboutant",
+"arcs-boutants" to "arcboutants",
+
+"auto-stop" to "autostop",
+"auto-stop" to "autostops",
+
+"auto-stoppeur" to "autostoppeur",
+"auto-stoppeurs" to "autostoppeurs",
+
+"auto-stoppeuse" to "autostoppeuse",
+"auto-stoppeuses" to "autostoppeuses",
+
+"d'arrache-pied" to "d'arrachepied", // Locution adverbiale (invariable)
+
+"base-ball" to "baseball",
+"base-balls" to "baseballs",
+
+"basket-ball" to "basketball",
+"basket-balls" to "basketballs",
+
+
+"basse-contre" to "bassecontre",
+"basses-contre" to "bassecontres",
+
+"basse-contriste" to "bassecontriste",
+"basses-contristes" to "bassecontristes",
+
+"basse-cour" to "bassecour",
+"basses-cours" to "bassecours",
+
+"basse-courier" to "bassecourier",
+"basses-couriers" to "bassecouriers",
+
+"basse-lisse" to "basselisse",
+"basse-lice" to "basselisse",
+"basses-lisses" to "basselisses",
+"basses-lices" to "basselisses",
+
+"basse-lissier" to "basselissier",
+"basse-lissière" to "basselissière",
+"basse-lissiers" to "basselissiers",
+"basse-lissières" to "basselissières",
+
+"basse-taille" to "bassetaille",
+"basses-tailles" to "bassetailles",
+
+"bla-bla" to "blabla",
+"bla-blas" to "blablas",
+
+"black-out" to "blackout",
+"black-outs" to "blackouts",
+
+"blue-jean" to "bluejean",
+"blue-jeans" to "bluejeans",
+
+"boui-boui" to "bouiboui",
+"boui-bouis" to "bouibouis",
+
+"bout-en-train" to "boutentrain",
+"bouts-en-train" to "boutentrains",
+
+"branle-bas" to "branlebas",
+
+"ciné-roman" to "cinéroman",
+"ciné-romans" to "cinéromans",
+
+"coin-coin" to "coincoin",
+"coin-coins" to "coincoins",
+
+"cow-boy" to "cowboy",
+"cow-boys" to "cowboys",
+
+"chausse-trappe" to "chaussetrappe",
+"chausse-trape" to "chaussetrappe",
+"chausse-trappes" to "chaussetrappes",
+"chausse-trapes" to "chaussetrappes",
+
+"chauve-souris" to "chauvesouris",
+"chauves-souris" to "chauvesouris",
+
+"chèvre-pied" to "chèvrepied",
+"chèvre-pieds" to "chèvrepieds",
+
+"chiche-kébab" to "chichekébab",
+"chiche-kébabs" to "chichekébabs",
+"chiche-kebab" to "chichekébab",
+"chiche-kebabs" to "chichekébabs",
+"chich-kebab" to "chichekébab",
+"chich-kebabs" to "chichekébabs",
+
+"chow-chow" to "chowchow",
+"chow-chows" to "chowchows",
+
+"couvre-pied" to "couvrepied",
+"couvre-pieds" to "couvrepieds",
+
+"cover-girl" to "covergirl",
+"cover-girls" to "covergirls",
+
+"croche-pied" to "crochepied",
+"croche-pieds" to "crochepieds",
+
+"croque-madame" to "croquemadame",
+"croque-madames" to "croquemadames",
+
+"croque-mitaine" to "croquemitaine",
+"croque-mitaines" to "croquemitaines",
+
+"croque-monsieur" to "croquemonsieur",
+"croque-monsieurs" to "croquemonsieurs",
+
+"croque-mort" to "croquemort",
+"croque-morts" to "croquemorts",
+
+"croque-note" to "croquenote",
+"croque-notes" to "croquenotes",
+
+"ex-libris" to "exlibris",
+
+"fac-similé" to "facsimilé",
+"fac-similés" to "facsimilés",
+
+"fair-play" to "fairplay", // Nom ou adjectif invariable selon le contexte, mais souvent traité comme nom
+"fair-plays" to "fairplays",
+
+"frou-frou" to "froufrou",
+"frous-frous" to "froufrous",
+
+"hand-ball" to "handball",
+"hand-balls" to "handballs",
+
+"hara-kiri" to "harakiri",
+"hara-kiris" to "harakiris",
+
+"haute-contre" to "hautecontre",
+"hautes-contre" to "hautecontres",
+
+"haute-lisse" to "hautelisse",
+"haute-lice" to "hautelisse",
+"hautes-lisses" to "hautelisses",
+"hautes-lices" to "hautelisses",
+
+"haut-parleur" to "hautparleur",
+"hauts-parleurs" to "hautparleurs",
+
+"hot-dog" to "hotdog",
+"hot-dogs" to "hotdogs",
+
+"globe-trotteur" to "globetrotteur",
+"globe-trotteurs" to "globetrotteurs",
+"globe-trotter" to "globetrotteur",
+"globe-trotters" to "globetrotteurs",
+
+"gri-gri" to "grigri",
+"gris-gris" to "grigris",
+
+"kif-kif" to "kifkif", // adj Invariable selon l'Académie française
+
+"lieu-dit" to "lieudit",
+"lieux-dits" to "lieudits",
+
+"lock-out" to "lockout",
+"lock-outs" to "lockouts",
+
+"mah-jong" to "majong",
+"mah-jongs" to "majongs",
+
+"méli-mélo" to "mélimélo",
+"mélis-mélos" to "mélimélos",
+
+"mille-feuille" to "millefeuille",
+"mille-feuilles" to "millefeuilles",
+
+"mille-pertuis" to "millepertuis",
+
+"moto-cross" to "motocross",
+
+"ping-pong" to "pingpong",
+"ping-pongs" to "pingpongs",
+
+"pipe-line" to "pipeline",
+"pipe-lines" to "pipelines",
+
+"pique-nique" to "piquenique",
+"pique-niques" to "piqueniques",
+
+"plate-bande" to "platebande",
+"plates-bandes" to "platebandes",
+
+"porte-clé" to "porteclé",
+"porte-clef" to "porteclef",
+"porte-clés" to "porteclés",
+"porte-clefs" to "porteclefs",
+
+"porte-crayon" to "portecrayon",
+"porte-crayons" to "portecrayons",
+
+"porte-mine" to "portemine",
+"porte-mines" to "portemines",
+
+"porte-voix" to "portevoix",
+
+"pot-pourri" to "potpourri",
+"pots-pourris" to "potpourris",
+
+"pouce-pied" to "poucepied",
+"pouce-pieds" to "poucepieds",
+
+"prud'homal" to "prudhommal",
+"prud'homaux" to "prudhommaux",
+
+"prud'homme" to "prudhomme",
+"prud'hommes" to "prudhommes",
+
+"prud'homie" to "prudhommie",
+"prud'homies" to "prudhommies",
+
+"quote-part" to "quotepart",
+"quotes-parts" to "quoteparts",
+
+"sage-femme" to "sagefemme",
+"sages-femmes" to "sagefemmes",
+
+"sauf-conduit" to "saufconduit",
+"sauf-conduits" to "saufconduits",
+
+"strip-tease" to "striptease",
+"strip-teases" to "stripteases",
+
+"side-car" to "sidecar",
+"side-cars" to "sidecars",
+
+"tam-tam" to "tamtam",
+"tam-tams" to "tamtams",
+
+"tape-cul" to "tapecul",
+"tape-culs" to "tapeculs",
+
+"télé-film" to "téléfilm",
+"télé-films" to "téléfilms",
+
+"terre-plein" to "terreplein",
+"terre-pleins" to "terrepleins",
+
+"tire-bouchon" to "tirebouchon",
+"tire-bouchons" to "tirebouchons",
+
+"tire-fond" to "tirefond",
+"tire-fonds" to "tirefonds",
+
+"tohu-bohu" to "tohubohu",
+"tohu-bohus" to "tohubohus",
+
+"tourne-dos" to "tournedos",
+
+"trou-trou" to "troutrou",
+"trous-trous" to "troutrous",
+
+"tsé-tsé" to "tsétsé",
+"tsé-tsé" to "tsétsés",
+
+"vélo-pousse" to "vélopousse",
+"vélos-pousses" to "vélopousses",
+
+"vélo-ski" to "véloski",
+"vélos-skis" to "véloskis",
+
+"vélo-taxi" to "vélotaxi",
+"vélos-taxis" to "vélotaxis",
+
+"volley-ball" to "volleyball",
+"volley-balls" to "volleyballs",
+
+"week-end" to "weekend",
+"week-ends" to "weekends"
