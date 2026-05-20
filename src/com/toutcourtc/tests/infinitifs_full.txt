@@ -20,6 +20,7 @@ abhorrer
 abicher
 abigotir
 abîmer
+abimer
 abjurer
 ablater
 ablatir
@@ -130,6 +131,7 @@ accréditer
 accréter
 accrocher
 accroître
+accroitre
 accroupir
 accrouptonner
 accueillir
@@ -285,6 +287,7 @@ affruiter
 affubler
 affurer
 affûter
+affuter
 afistoler
 africaniser
 agacer
@@ -551,6 +554,7 @@ antiquer
 antiseptiser
 anuiter
 aoûter
+aouter
 apaiser
 apâlir
 apanager
@@ -587,6 +591,7 @@ apothéoser
 appairer
 appâlir
 apparaître
+apparaitre
 appareiller
 apparenter
 apparier
@@ -1070,6 +1075,7 @@ bénéficier
 bénir
 benner
 benoîtonner
+benoitonner
 béquer
 béqueter
 béquiller
@@ -1436,6 +1442,7 @@ bruissailler
 bruisser
 bruiter
 brûler
+bruler
 brumasser
 brumer
 brumiser
@@ -1447,7 +1454,9 @@ buander
 bubuler
 bucciner
 bûcher
+bucher
 bûcheronner
+bucheronner
 bucoliser
 budgéter
 budgétiser
@@ -1665,6 +1674,7 @@ caser
 caserner
 casquer
 casse-croûter
+casse-crouter
 casser
 castagner
 caster
@@ -1723,6 +1733,7 @@ chafrioler
 chagriner
 chahuter
 chaîner
+chainer
 challenger
 chalouper
 chaluter
@@ -1970,6 +1981,7 @@ clocheter
 clocter
 cloisonner
 cloîtrer
+cloitrer
 cloner
 cloper
 clopiner
@@ -2088,6 +2100,7 @@ commuter
 compacter
 compagnonner
 comparaître
+comparaitre
 comparer
 compartimenter
 compasser
@@ -2191,6 +2204,7 @@ conjouir
 conjuguer
 conjurer
 connaître
+connaitre
 connecter
 conniver
 connoter
@@ -2446,6 +2460,7 @@ courtiser
 cousiner
 couteler
 coûter
+couter
 couturer
 couver
 couvrir
@@ -2544,7 +2559,9 @@ croupionner
 croupir
 croustiller
 croûter
+crouter
 croûtonner
+croutonner
 crucifier
 cryogéniser
 cryoniser
@@ -2659,6 +2676,7 @@ déboetter
 déboguer
 déboiser
 déboîter
+déboiter
 débonder
 débondieuser
 débondonner
@@ -2775,6 +2793,7 @@ décesser
 décevoir
 déchagriner
 déchaîner
+déchainer
 déchalasser
 déchaler
 déchanter
@@ -2826,6 +2845,7 @@ décliver
 déclocher
 décloisonner
 décloîtrer
+décloitrer
 déclore
 déclouer
 décoaguler
@@ -2922,8 +2942,10 @@ décrocher
 décroire
 décroiser
 décroître
+décroitre
 décrotter
 décroûter
+décrouter
 décruer
 décruser
 décruster
@@ -3018,6 +3040,7 @@ défourrer
 défoxer
 défragmenter
 défraîchir
+défraichir
 défranchir
 défranciser
 défrapper
@@ -3057,6 +3080,7 @@ dégermaniser
 dégermer
 dégingander
 dégîter
+dégiter
 dégivrer
 déglacer
 déglinguer
@@ -3082,6 +3106,7 @@ dégourer
 dégourmer
 dégourrer
 dégoûter
+dégouter
 dégoutteler
 dégoutter
 dégrader
@@ -3583,6 +3608,7 @@ désembarquer
 désembarrasser
 désembobiner
 désemboîter
+désemboiter
 désembourber
 désembourgeoiser
 désembouteiller
@@ -3615,6 +3641,7 @@ désencanailler
 désencarter
 désencaster
 désenchaîner
+désenchainer
 désenchanter
 désenchevêtrer
 désenclaver
@@ -3624,6 +3651,7 @@ désencombrer
 désencrasser
 désencrer
 désencroûter
+désencrouter
 désendetter
 désendrailler
 désénerver
@@ -3665,6 +3693,7 @@ désenvelopper
 désenvenimer
 désenverguer
 désenvoûter
+désenvouter
 désépaissir
 désépargner
 désépauler
@@ -3778,6 +3807,7 @@ dessoler
 dessoucher
 dessouder
 dessoûler
+dessouler
 dessuinter
 déstabiliser
 déstaliniser
@@ -3946,10 +3976,12 @@ diligenter
 diluer
 dimensionner
 dîmer
+dimer
 dimidier
 diminuer
 dindonner
 dîner
+diner
 dinguer
 dinitrer
 diogéniser
@@ -3978,6 +4010,7 @@ disjoindre
 disjoncter
 disloquer
 disparaître
+disparaitre
 dispatcher
 dispenser
 disperser
@@ -4235,6 +4268,7 @@ ecchymoser
 écrouir
 écrouler
 écroûter
+écrouter
 ectasier
 ectomiser
 écuisser
@@ -4389,6 +4423,7 @@ embobiner
 emboire
 emboiser
 emboîter
+emboiter
 emboliser
 emboquer
 embordurer
@@ -4428,6 +4463,7 @@ embroussailler
 embrumer
 embrunir
 embûcher
+embucher
 embucquer
 embuer
 embugner
@@ -4588,6 +4624,7 @@ encelluler
 encenser
 encercler
 enchaîner
+enchainer
 enchanteler
 enchanter
 enchaper
@@ -4616,6 +4653,7 @@ enclaver
 enclencher
 encliqueter
 encloîtrer
+encloitrer
 encloquer
 enclore
 enclouer
@@ -4648,6 +4686,7 @@ encrotter
 encrouer
 encroumer
 encroûter
+encrouter
 encrypter
 encuirasser
 encuistrer
@@ -4674,6 +4713,7 @@ endurer
 énergiser
 énerver
 enfaîter
+enfaiter
 enfanter
 enfarger
 enfariner
@@ -4703,6 +4743,7 @@ enfuir
 enfumer
 enfutailler
 enfûter
+enfuter
 engager
 engainer
 engaller
@@ -4864,6 +4905,7 @@ entourlouper
 entr'aimer
 entr'apercevoir
 entr'apparaître
+entr'apparaitre
 entr'appeler
 entr'égorger
 entr'ouvrir
@@ -4872,6 +4914,7 @@ entraccuser
 entradmirer
 entraider
 entraîner
+entrainer
 entrapercevoir
 entraver
 entraverser
@@ -4941,6 +4984,7 @@ entretuer
 entre-tuer
 entrevoir
 entrevoûter
+entrevouter
 entrexaminer
 entrobliger
 entrouvrir
@@ -4968,6 +5012,7 @@ envoiler
 envoisiner
 envoler
 envoûter
+envouter
 envoyer
 enwagonner
 éoliser
@@ -5569,6 +5614,7 @@ formyler
 forniquer
 forpaiser
 forpaître
+forpaitre
 forpayser
 fortifier
 fortitrer
@@ -5611,6 +5657,7 @@ fracturer
 fragiliser
 fragmenter
 fraîchir
+fraichir
 fraiser
 framboiser
 franchir
@@ -5818,6 +5865,7 @@ girer
 gironner
 girouetter
 gîter
+giter
 givrer
 glacer
 glaglater
@@ -5887,6 +5935,7 @@ gourmer
 gournabler
 gourrer
 goûter
+gouter
 goutteler
 goutter
 gouverner
@@ -6195,6 +6244,7 @@ illusionner
 illustrer
 illuter
 îloter
+iloter
 imager
 imaginer
 imbécillifier
@@ -6769,6 +6819,7 @@ maillonner
 mainmettre
 maintenir
 maîtriser
+maitriser
 majorer
 malaxer
 maléficier
@@ -6817,6 +6868,7 @@ maquignonner
 maquiller
 marabouter
 maraîchiner
+maraichiner
 marauder
 marbrer
 marchandailler
@@ -6897,6 +6949,7 @@ mécomprendre
 mécompter
 méconduire
 méconnaître
+méconnaitre
 mécontenter
 mécroire
 médailler
@@ -7165,6 +7218,7 @@ murailler
 murer
 murger
 mûrir
+murir
 murmurer
 musarder
 muscler
@@ -7190,6 +7244,7 @@ nageoter
 nager
 naiser
 naître
+naitre
 nanifier
 naniser
 nantir
@@ -7448,6 +7503,7 @@ paillonner
 paisseler
 paissonner
 paître
+paitre
 pajoter
 palabrer
 paladiner
@@ -7509,6 +7565,7 @@ parafer
 paraffiner
 paraisonner
 paraître
+paraitre
 paralléliser
 paralyser
 paramétrer
@@ -8299,9 +8356,11 @@ raffiner
 raffoler
 raffolir
 raffûter
+raffuter
 rafistoler
 rafler
 rafraîchir
+rafraichir
 ragaillardir
 ragencer
 rager
@@ -8309,6 +8368,7 @@ ragogner
 ragonner
 ragoter
 ragoûter
+ragouter
 ragrafer
 ragrandir
 ragréer
@@ -8462,6 +8522,7 @@ réafficher
 réaffilier
 réaffirmer
 réaffûter
+réaffuter
 réagencer
 réagir
 réaiguiller
@@ -8477,6 +8538,7 @@ réamorcer
 réanimer
 réapercevoir
 réapparaître
+réapparaitre
 réappeler
 réapplaudir
 réapposer
@@ -8548,6 +8610,7 @@ rebroder
 rebrosser
 rebrousser
 rebrûler
+rebruler
 rebuffer
 rebuter
 recâbler
@@ -8626,6 +8689,7 @@ recommander
 recommencer
 recommercer
 recomparaître
+recomparaitre
 récompenser
 recompiler
 recompléter
@@ -8642,6 +8706,7 @@ reconfirmer
 réconforter
 recongeler
 reconnaître
+reconnaitre
 reconnecter
 reconquérir
 reconsidérer
@@ -8682,6 +8747,7 @@ recristalliser
 recroire
 recroiser
 recroître
+recroitre
 recroqueviller
 recruter
 rectifier
@@ -8773,6 +8839,7 @@ réensemencer
 réentendre
 réenterrer
 réentraîner
+réentrainer
 réenvahir
 réenvisager
 réenvoler
@@ -8838,6 +8905,7 @@ refourrer
 refoutre
 réfracter
 refraîchir
+refraichir
 refranchir
 réfranger
 refrapper
@@ -8880,6 +8948,7 @@ regommer
 regonfler
 regorger
 regoûter
+regouter
 regrader
 regradiller
 regratter
@@ -8993,6 +9062,7 @@ remblaver
 remblayer
 rembobiner
 remboîter
+remboiter
 remborder
 rembouger
 rembourrer
@@ -9051,6 +9121,7 @@ rémunérer
 remuscler
 renâcler
 renaître
+renaitre
 renamourer
 renarder
 renationaliser
@@ -9058,6 +9129,7 @@ renauder
 rencaisser
 rencarder
 renchaîner
+renchainer
 renchausser
 renchérir
 rencogner
@@ -9076,6 +9148,7 @@ reneiger
 rénetter
 renettoyer
 renfaîter
+renfaiter
 renfermer
 renfiler
 renflammer
@@ -9147,9 +9220,11 @@ réoxyder
 réoxygéner
 repairer
 repaître
+repaitre
 répandre
 repapilloter
 reparaître
+reparaitre
 reparcourir
 réparer
 reparler
@@ -9871,9 +9946,11 @@ souiller
 souillonner
 soulager
 soûler
+souler
 soulever
 souligner
 soûlotter
+soulotter
 soumettre
 soumissionner
 soupçonner
@@ -10090,6 +10167,7 @@ surcouper
 surcreuser
 surcroiser
 surcroître
+surcroitre
 surcuire
 surdéterminer
 surdévelopper
@@ -10101,6 +10179,7 @@ surélever
 surenchérir
 surendetter
 surentraîner
+surentrainer
 suréquiper
 surestimer
 surévaluer
@@ -10510,8 +10589,11 @@ traficoter
 trafiquer
 trahir
 traînailler
+trainailler
 traînasser
+trainasser
 traîner
+trainer
 traire
 traiter
 trajeter
@@ -10546,6 +10628,7 @@ transmigrer
 transmuer
 transmuter
 transparaître
+transparaitre
 transpercer
 transpirer
 transplanter
@@ -10885,6 +10968,7 @@ vousoyer
 vousser
 voussoyer
 voûter
+vouter
 vouvoyer
 voyager
 voyeller

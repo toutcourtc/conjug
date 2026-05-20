@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mots_dictees_mots_them_21_1">
+        <item>pomme</item>
+        <item>une pomme</item>
+        <item>des pommes</item>
+        <item>La pomme est rouge et sucrée.|L\'enfant croque dans une pomme.|Épluche cette pomme avec le couteau.|Elle prépare un jus de pomme.|La pomme tombe de l\'arbre.</item>
+        <item>Les pommes croustillent sous la dent.|Plusieurs pommes tombent de l\'arbre.|Ce sont de belles pommes rouges.|Le jus provient des pommes pressées.|Les pommes se conservent tout l\'hiver.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_2">
+        <item>poire</item>
+        <item>une poire</item>
+        <item>des poires</item>
+        <item>La poire est très juteuse.|L\'enfant coupe la poire en deux.|Mange ta poire pour le dessert.|Le panier contient une poire.|La peau de la poire est fine.</item>
+        <item>Les poires murissent doucement au soleil.|Deux poires pendent à la branche.|Ce sont de poires juteuses.|La tarte contient des morceaux de poires.|Les poires ont une peau très fine.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_3">
+        <item>banane</item>
+        <item>une banane</item>
+        <item>des bananes</item>
+        <item>La banane est jaune.|La fillette retire la peau de la banane.|Elle écrase une banane mure.|Le singe adore manger une banane.|Pose la banane sur la table.</item>
+        <item>Les bananes apportent beaucoup d\'énergie.|Plusieurs bananes jaunissent dans le panier.|Ce sont de longues bananes sucrées.|On épluche facilement les bananes.|Les bananes sont bonnes pour la santé.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_4">
+        <item>orange</item>
+        <item>une orange</item>
+        <item>des oranges</item>
+        <item>L\'orange apporte beaucoup de vitamines.|Tu presses une orange le matin.|Cette orange est difficile à peler.|La couleur de l\'orange est vive.|Donne-moi un quartier d\'orange.</item>
+        <item>Les oranges sont très juteuses.|Les oranges roulent sur la table.|Ce sont de grosses oranges.|La cueillette des oranges commence bientôt.|Les oranges parfument toute la cuisine.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_5">
+        <item>citron</item>
+        <item>un citron</item>
+        <item>des citrons</item>
+        <item>Le citron est acide.|Il verse un peu de citron.|Le citron jaune brille au soleil.|Ajoute du citron dans ton thé.|Elle coupe une tranche de citron.</item>
+        <item>Les citrons apportent une touche d\'acidité.|Des citrons jaunissent sur le citronnier.|Certains citrons sont grands comme des oranges.|Les citrons relèvent le gout de certains aliments.|Les citrons purifient l\'eau du verre.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_6">
+        <item>fraise</item>
+        <item>une fraise</item>
+        <item>des fraises</item>
+        <item>La fraise pousse au jardin.|La dame cueille une fraise rouge.|Elle mange la fraise avec du sucre.|Le gout de la fraise est doux.|Regarde cette grosse fraise.</item>
+        <item>Les fraises embaument le jardin potager.|Des fraises brillent parmi les feuilles.|Les fraises rouges sont sucrées.|La crème accompagne souvent les fraises.|Les fraises se récoltent au printemps.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_7">
+        <item>framboise</item>
+        <item>une framboise</item>
+        <item>des framboises</item>
+        <item>La framboise est fragile.|Il est parti chercher une framboise dans le buisson.|Elle a posé une framboise sur le gâteau.|Le jus de framboise tache les doigts.|Cette framboise est un peu acide.</item>
+        <item>Les framboises se cachent sous les ronces.|Des framboises colorent le panier.|Les petites framboises ont meilleur gout.|Le confiturier transforme les framboises.|Les framboises fondent dans la bouche.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_8">
+        <item>cerise</item>
+        <item>une cerise</item>
+        <item>des cerises</item>
+        <item>La cerise a un petit noyau.|Il a cueilli une cerise sur l\'arbre.|Elle aime la cerise.|Le rouge de la cerise est foncé.|Attrape cette cerise par la queue.</item>
+        <item>Les cerises pendent aux branches.|Deux cerises forment une paire parfaite.|Ce sont de belles cerises charnues.|Les oiseaux picorent les cerises.|Les cerises annoncent l\'arrivée de l\'été.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_9">
+        <item>abricot</item>
+        <item>un abricot</item>
+        <item>des abricots</item>
+        <item>L\'abricot est doux au toucher.|Il achète un abricot bien mûr.|Le noyau de l\'abricot est gros.|Elle a coupé l\'abricot en morceaux.|L\'abricot est un fruit d\'été.</item>
+        <item>Les abricots colorent les étals du marché.|Plusieurs abricots sèchent au soleil.|Ces abricots dégagent un parfum sucré.|On prépare souvent de la confiture avec les abricots.|Les abricots murs tombent dans l\'herbe.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_10">
+        <item>pêche</item>
+        <item>une pêche</item>
+        <item>des pêches</item>
+        <item>Elle n\'a pas mangé sa pêche.|Il a savouré une pêche juteuse.|Elle a lavé la pêche dans l\'eau.|La chair de la pêche est sucrée.|On lui a offert une pêche.</item>
+        <item>Les pêches murissent sur les branches.|Certaines pêches ont la peau dur.|Les tartes aux pêches sentent bon.|Le vent fait tomber les pêches.|Ces pêches rafraichissent tout le monde.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_11">
+        <item>prune</item>
+        <item>une prune</item>
+        <item>des prunes</item>
+        <item>La prune tombe du prunier.|Il choisit une prune violette.|La fille croque dans la prune.|Le sucre de la prune colle aux doigts.|La prune est délicieuse en tarte.</item>
+        <item>Les prunes recouvrent le sol du verger.|Certaines prunes ont un reflet bleuté.|Les oiseaux gourmands picorent les prunes.|Le panier déborde de prunes bien mures.|Ces prunes feront une excellente confiture.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_12">
+        <item>raisin</item>
+        <item>un raisin</item>
+        <item>des raisins</item>
+        <item>Le raisin sec est très bon.|Je mange un grain de raisin.|Le raisin peut être vert ou noir.|Elle lave le raisin dans un bac.|Le raisin est très sucré.</item>
+        <item>Les raisins pendent le long des vignes.|De beaux raisins secs garnissent le gâteau.|Les vendangeurs récoltent les raisins murs.|Le soleil fait murir les raisins.|Ces raisins croquent sous la dent.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_13">
+        <item>ananas</item>
+        <item>un ananas</item>
+        <item>des ananas</item>
+        <item>L\'ananas a une peau rugueuse.|On découpe l\'ananas en deux moreceaux.|L\'ananas vient des pays chauds.|Tu prépares des tranches d\'ananas.|Le gout de l\'ananas est exotique.</item>
+        <item>Les ananas décorent le buffet.|Certains ananas sont particulièrement parfumés.|On découpe les ananas en rondelles.|Les rayons du marché proposent des ananas.|Ces ananas apportent une touche de fraicheur.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_14">
+        <item>mangue</item>
+        <item>une mangue</item>
+        <item>des mangues</item>
+        <item>La mangue peut être verte ou orange.|Il épluche la mangue avec soin.|Elle aime la mangue bien fraiche.|Le noyau de la mangue est plat.|La mangue sent très bonne.</item>
+        <item>Les mangues pendent aux branches des arbres.|Plusieurs mangues colorent la salade de fruits.|Ces mangues juteuses sont un vrai régal.|Le transport des mangues demande de l\'attention.|Les mangues se dégustent souvent en dessert.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_15">
+        <item>kiwi</item>
+        <item>un kiwi</item>
+        <item>des kiwis</item>
+        <item>Le kiwi est vert à l\'intérieur.|Il aime manger le kiwi en dessert.|La peau du kiwi est poilue.|Elle coupe le kiwi en plusieurs rondelles.|Le kiwi contient beaucoup d\'énergie.</item>
+        <item>Les kiwis apportent beaucoup de vitamines.|La peau des kiwis est poilue.|Ces kiwis proviennent du jardin voisin.|On utilise les kiwis pour la décoration.|Les kiwis ont un petit gout acide.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_16">
+        <item>figue</item>
+        <item>une figue</item>
+        <item>des figues</item>
+        <item>La figue est un fruit très doux.|Il a ramassé une figue sous l\'arbre.|Elle ouvre la figue avec ses doigts.|La figue est pleine de petits grains.|Mange cette figue avec du pain.</item>
+        <item>Les figues murissent durant la fin de l\'été.|On sert souvent des figues avec du fromage.|Ces figues violettes sont très tendres.|Le soleil gorge les figues de sucre.|Les figues se mangent aussi bien sèches.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_17">
+        <item>noix</item>
+        <item>une noix</item>
+        <item>des noix</item>
+        <item>La noix a une coquille solide.|Il faut casser la noix avec un outil.|La noix est bonne pour la santé.|On trouve la noix dans les bois.|Range la noix dans le panier.</item>
+        <item>Les noix sont durs à casser.|Quelques noix tombent durant la tempête.|Ces noix fraiches sont délicieuses à grignoter.|On ajoute des noix dans la salade.|Les noix se conservent durant plusieurs mois.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_18">
+        <item>amande</item>
+        <item>une amande</item>
+        <item>des amandes</item>
+        <item>L\'amande est un fruit sec.|Il aime l\'amande grillée.|L\'amande est cachée dans sa coque.|Elle ajoute une amande sur le biscuit.|L\'amande a une forme allongée.</item>
+        <item>Les amandes décorent le dessus de la galette.|Plusieurs amandes sont encore dans leurs coques.|Ces amandes garnissent le dessert.|Le pâtissier utilise beaucoup d\'amandes.|Les amandes fournissent de bons nutriments.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_19">
+        <item>olive</item>
+        <item>une olive</item>
+        <item>des olives</item>
+        <item>L\'olive pousse sur un vieil arbre.|Il adore manger une olive verte.|On fait de l\'huile avec l\'olive.|Elle a dénoyanté une olive noire.|L\'olive est salée.</item>
+        <item>Les olives garnissent généreusement la pizza.|Certaines olives sont farcies au piment.|On récolte les olives avec de grands filets.|Ces olives parfumées ouvrent l\'appétit.|Les olives brillent sous une couche d\'huile.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_20">
+        <item>avocat</item>
+        <item>un avocat</item>
+        <item>des avocats</item>
+        <item>L\'avocat a une chair très grasse.|L\'avocat murit au soleil.|L\'avocat possède un énorme noyau.|Les enfant se partagent l\'avocat.|L\'avocat est un fruit vert.</item>
+        <item>Les avocats murissent doucement à température ambiante.|Les avocats font de bonnes purées.|Ces avocats bien murs s\'écrasent facilement.|La salade contient des avocats.|Les avocats contiennent des graisses.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_21">
+        <item>goyave</item>
+        <item>une goyave</item>
+        <item>des goyaves</item>
+        <item>La goyave sent très fort.|Nous mangeons une goyave rose.|La peau de la goyave se mange.|Elle boit un jus de goyave.|La goyave est riche en sucre.</item>
+        <item>Les goyaves murissent sur les arbustes tropicaux.|Quelques goyaves parfument tout le panier.|Les goyaves sont sucrés.|Ces goyaves charnues attirent les oiseaux.|Les goyaves apportent une saveur exotique.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_22">
+        <item>papaye</item>
+        <item>une papaye</item>
+        <item>des papayes</item>
+        <item>La papaye est un grand fruit.|Il a retiré les pépins de la papaye.|La papaye est très tendre.|Elle sert une tranche de papaye.|Le gout de la papaye est doux.</item>
+        <item>Les papayes pèsent plus que les mangues.|Les papayes changent de couleur au soleil.|Ces papayes serviront de dessert.|On utilise les graines des papayes en cuisine.|Les papayes se dégustent parfois avec du citron.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_23">
+        <item>pastèque</item>
+        <item>une pastèque</item>
+        <item>des pastèques</item>
+        <item>La pastèque contient beaucoup d\'eau.|Il achète une pastèque.|La pastèque est rouge à l\'intérieur.|Elle croque dans la pastèque.|La pastèque rafraichit en été.</item>
+        <item>Les pastèques reposent sur le sol du jardin.|Certaines pastèques sont vraiment gigantesques.|On partage les pastèques entre amis.|Les tranches de pastèques sont juteuses.|Mes pastèques désaltèrent tout le monde.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_24">
+        <item>prunelle</item>
+        <item>une prunelle</item>
+        <item>des prunelles</item>
+        <item>Tu es la prunelle de mes yeux.|Il a cueilli une prunelle sauvage.|Le gout de la prunelle ne me plait pas.|Elle observe la prunelle dans sa main.|J\'adore la prunelle.</item>
+        <item>Je récolte des prunelles.|Mes filles sont les prunelles de mes yeux.|Ces petites prunelles servent à faire des liqueurs.|Le froid adoucit naturellement les prunelles.|On repère facilement les prunelles.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_25">
+        <item>pamplemousse</item>
+        <item>un pamplemousse</item>
+        <item>des pamplemousses</item>
+        <item>Le pamplemousse est un gros agrume.|Les enfants se partagent le pamplemousse.|Le jus de pamplemousse est un peu amer.|Elle est en train de manger un pamplemousse.|Le pamplemousse est rose à l\'intérieur.</item>
+        <item>Les pamplemousses mettent de bonne humeur le matin.|Certains pamplemousses ont une peau très épaisse.|On presse les pamplemousses pour faire du jus.|Les pamplemousses sont des agrumes géants.|Les quartiers de pamplemousses décorent l\'assiette.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_26">
+        <item>melon</item>
+        <item>un melon</item>
+        <item>des melons</item>
+        <item>Le melon est très parfumé.|Il a coupé une tranche de melon.|La chair du melon est orange.|Elle enlève les pépins du melon.|Le melon se mange bien frais.</item>
+        <item>Les melons murissent sous un tunnel de verre.|Quelques melons dégagent une odeur sucrée.|On choisit les melons en observant leur queue.|Ces melons sont de gros fruits.|Les morceaux de melons rafraichissent le déjeuner.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_27">
+        <item>carotte</item>
+        <item>une carotte</item>
+        <item>des carottes</item>
+        <item>La carotte pousse sous la terre.|La carotte se mange crue.|Le lapin grignote sa carotte.|Elle épluche la carotte proprement.|La carotte est bonne pour la vue.</item>
+        <item>Les carottes poussent sous la terre.|Des carottes dépassent du panier.|Les lapins apprécient les carottes.|J\'ai des carottes, si tu veux faire une purée.|Les carottes apportent une jolie couleur à nos plats.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_28">
+        <item>salade</item>
+        <item>une salade</item>
+        <item>des salades</item>
+        <item>La salade est bien verte.|Je lave la salade dans le bac.|Mange un peu de salade fraiche.|Elle a préparé une belle salade.|La salade craque sous la dent.</item>
+        <item>Les salades poussent en rangs serrés.|J\'ai une affection particulière pour les salades.|Ces salades croquantes viennent du potager.|On assaisonne les salades juste avant de servir.|Les limaces adorent grignoter les salades.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_29">
+        <item>tomate</item>
+        <item>une tomate</item>
+        <item>des tomates</item>
+        <item>La tomate est rouge et ronde.|Il prend une tomate pour le repas.|Le jus de la tomate coule.|Elle part cueillir une tomate au soleil.|La tomate est pleine de pépins.</item>
+        <item>Je cueillerai bientôt mes tomates.|Certaines tomates deviennent énormes.|On arrose les tomates au pied chaque soir.|Ces tomates bien mures ont beaucoup de gout.|Les sauces se préparent avec des tomates fraiches.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_30">
+        <item>ognon</item>
+        <item>un ognon</item>
+        <item>des ognons</item>
+        <item>L\'ognon fait pleurer.|Il épluche un gros ognon blanc.|L\'ognon donne du gout à la soupe.|Elle fait cuire l\'ognon doucement.|Range l\'ognon dans le tiroir.</item>
+        <item>Les ognons dorent dans la poêle chaude.|Plusieurs ognons sont tressés ensemble.|Ces petits ognons sont parfaits en sauce.|On conserve les ognons dans un endroit sec.|Les ognons rouges colorent joliment les plats.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_31">
+        <item>ail</item>
+        <item>un ail</item>
+        <item>des aulx</item>
+        <item>L\'ail sent très fort.|Il écrase une gousse d\'ail.|L\'ail protège contre les maladies.|Elle ajoute de l\'ail dans le plat.|L\'ail est blanc et piquant.</item>
+        <item>Les aulx s\'entassent dans le panier.|Certains aulx sont plus forts que d\'autres.|On suspend les tresses d\'aulx au mur.|Le gout des aulx parfume la cuisine.|Ces aulx proviennent du potager.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_32">
+        <item>aubergine</item>
+        <item>une aubergine</item>
+        <item>des aubergines</item>
+        <item>L\'aubergine a une peau violette.|Il fait griller une aubergine.|La chair de l\'aubergine est tendre.|Elle achète une grosse aubergine.|L\'aubergine brille sous la lumière.</item>
+        <item>Les aubergines pendent sous de larges feuilles.|Les aubergines sont délicieuses.|Mes aubergines sont prêtes à être cueillies.|On prépare souvent des gratins d\'aubergines.|Les aubergines absorbent bien l\'huile d\'olive.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_33">
+        <item>poivron</item>
+        <item>un poivron</item>
+        <item>des poivrons</item>
+        <item>Le poivron peut être rouge ou vert.|Il a retiré les grains du poivron.|Le poivron est croquant.|Je prépare un poivron farci.|Le poivron est un légume d\'été.</item>
+        <item>Les poivrons colorent joyeusement la salade.|Quelques poivrons jaunissent sur le plant.|Ces poivrons grillés ont un bon gout.|On découpe les poivrons en fins morceaux.|Les poivrons apportent du croquant à nos plats.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_34">
+        <item>chou</item>
+        <item>un chou</item>
+        <item>des choux</item>
+        <item>Le chou a de larges feuilles.|Il veut faire une salade de chou.|Le chou rend la soupe délicieuse.|Elle choisit un beau chou vert.|Le chou est bon pour la santé.</item>
+        <item>Les choux poussent sur plusieurs rangs dans le jardin.|Certains choux résistent bien au froid.|On prépare souvent des salades de choux.|Les chenilles adorent grignoter les choux.|Ces gros choux sont lourds à porter.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_35">
+        <item>haricot</item>
+        <item>un haricot</item>
+        <item>des haricots</item>
+        <item>Le haricot grimpe sur le tuteur.|Il aime manger son haricot frais.|Le haricot est long et fin.|Elle écale un haricot sec.|Mets le haricot dans ton assiette.</item>
+        <item>Les haricots verts sont mes préférés.|Plusieurs haricots tombent du sac percé.|Les haricots rouges cuisent dans la sauce.|On ramasse les haricots chaque matin.|Les haricots grimpent le long des fils.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_36">
+        <item>maïs</item>
+        <item>un maïs</item>
+        <item>des maïs</item>
+        <item>Le maïs est jaune et croquant.|Il prend un épi de maïs.|Le maïs pousse dans les champs.|Elle fait chauffer le maïs.|Le grain de maïs est petit.</item>
+        <item>Les maïs dépassent la tête des promeneurs.|Quelques maïs grillent sur le feu de bois.|Ces épis de maïs sont bien garnis.|On récolte les maïs à la fin de l\'été.|Les maïs éclatent pour faire du popcorn.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_37">
+        <item>champignon</item>
+        <item>un champignon</item>
+        <item>des champignons</item>
+        <item>Le champignon pousse dans les bois.|Je cherche un champignon rare dans la forêt.|Le champignon a un chapeau rond.|Tu laves le champignon avec soin.|Ne mange pas ce champignon sauvage.</item>
+        <item>Les champignons apparaissent après la pluie.|Les champignons se cachent sous les feuilles.|Ces champignons de Paris sont très blancs.|Il faut trier les champignons.|Certains champignons sont très recherchés.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_38">
+        <item>concombre</item>
+        <item>un concombre</item>
+        <item>des concombres</item>
+        <item>Le concombre est long et vert.|Nous découpons le concombre en plusieurs rondelles.|La peau du concombre est lisse.|Elle mange son concombre avec du sel.|Le concombre contient beaucoup d\'eau.</item>
+        <item>Les concombres rafraichissent les repas d\'été.|Des concombres pendent le long du grillage.|Les concombres frais sont un délice.|On épluche les concombres avant de les servir.|Les concombres poussent très vite au soleil.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_39">
+        <item>jacque</item>
+        <item>un jacque</item>
+        <item>des jacques</item>
+        <item>Le jacque est un fruit énorme.|Il fait un plat avec du jacque.|Le jacque pousse sur le tronc.|Elle aime l\'odeur du jacque.|Le fruit du jacque est collant.</item>
+        <item>Les jacques impressionnent par leur taille.|Certains jacques murs tombent de l\'arbre.|Ces gros jacques sont lourds.|On cuisine les jacques de mille façons.|Les morceaux de jacques sont très sucrés.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_40">
+        <item>bilimbi</item>
+        <item>un bilimbi</item>
+        <item>des bilimbis</item>
+        <item>Le bilimbi est un petit fruit acide.|Il ajoute un bilimbi vert dans son plat.|On utilise le bilimbi en cuisine.|Elle a cueilli un bilimbi sur l\'arbre.|Le bilimbi ressemble à un petit cornichon.</item>
+        <item>Ce tronc porte plusieurs grappes de bilimbis.|Des bilimbis tombent dans l\'herbe.|Ces bilimbis servent à préparer des sauces.|On apprécie les bilimbis pour leur acidité.|Les bilimbis se conservent parfois dans du vinaigre.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_41">
+        <item>manioc</item>
+        <item>un manioc</item>
+        <item>des maniocs</item>
+        <item>Le manioc est une grosse racine.|Il épluche le manioc avec un couteau.|Le manioc doit être bien cuit.|Elle va préparer de la farine de manioc.|Le manioc est blanc à l\'intérieur.</item>
+        <item>Les maniocs sont la base de nombreux repas.|Certains maniocs sont plus longs que d\'autres.|On plante des maniocs dans le champ.|Ces maniocs bouillis accompagnent le poisson.|Le transport des maniocs demande de la force.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_42">
+        <item>potiron</item>
+        <item>un potiron</item>
+        <item>des potirons</item>
+        <item>Le potiron est gros et orange.|Il faut vider ce potiron pour la soupe.|La peau du potiron est très dure.|Elle dessine un potiron.|Le potiron est un légume d\'automne.</item>
+        <item>Les potirons décorent les jardins en octobre.|Quelques potirons sont cachés sous les feuilles.|Ces énormes potirons feront de bonnes soupes.|On creuse souvent les potirons pour s\'amuser.|Les potirons se conservent longtemps dans la cave.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_43">
+        <item>patate</item>
+        <item>une patate</item>
+        <item>des patates</item>
+        <item>La patate douce est très sucrée.|Il fait cuire une patate au four.|La patate pousse dans la terre.|Elle épluche une patate.|Épluche ta patate proprement.</item>
+        <item>Les patates douces colorent les assiettes.|Les patates s\'entassent dans le gros sac.|Ces patates frites plaisent à tout le monde.|On récolte les patates quand les tiges fanent.|Les patates se cuisinent de nombreuses manières.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_44">
+        <item>piment</item>
+        <item>un piment</item>
+        <item>des piments</item>
+        <item>Le piment brule la bouche.|Il ajoute un petit piment rouge.|Le piment donne du gout au plat.|Elle tient le piment avec prudence.|Ne mets pas ce piment dans tes yeux.</item>
+        <item>Les piments sont extrêmement forts.|Quelques piments sèchent sur le rebord de la fenêtre.|Ces piments verts relèvent la sauce.|On choisit les piments selon leur force.|Les piments apportent du piquant aux recettes.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_45">
+        <item>épinard</item>
+        <item>un épinard</item>
+        <item>des épinards</item>
+        <item>L\'épinard devient petit à la cuisson.|Il met une feuille d\'épinard dans son assiette.|L\'épinard est riche en fer.|Elle lave l\'épinard avec soin.|L\'épinard est vert foncé.</item>
+        <item>Les épinards frais demandent beaucoup de nettoyage.|Je n\'aime pas les épinards.|On ajoute des épinards dans les lasagnes.|Ces épinards à la crème sont délicieux.|Les épinards se mangent aussi bien crus que cuits.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_46">
+        <item>radis</item>
+        <item>un radis</item>
+        <item>des radis</item>
+        <item>Le radis est rose et blanc.|Il met un petit radis dans son sac.|Le gout du radis est piquant.|Elle met le radis dans l\'eau pour le laver.|Le radis se mange avec du beurre.</item>
+        <item>Les radis croquent agréablement sous la dent.|Plusieurs radis sortent de la terre.|Ces radis bien ronds sont très frais.|On sème les radis au début du printemps.|Les radis décorent joliment les plats de crudités.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_47">
+        <item>courgette</item>
+        <item>une courgette</item>
+        <item>des courgettes</item>
+        <item>La courgette est longue et verte.|Je découpe la courgette en rondelles.|La courgette cuit rapidement.|Elle compte griller cette courgette.|Le gout de la courgette est léger.</item>
+        <item>Les courgettes poussent abondamment dans mon potager.|Certaines courgettes deviennent énormes en quelques jours.|Ces courgettes grillées accompagnent la viande.|On fait souvent des beignets avec les fleurs des courgettes.|Les courgettes sont parfaites pour la ratatouille.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_48">
+        <item>songe</item>
+        <item>un songe</item>
+        <item>des songes</item>
+        <item>Le songe est une racine tropicale.|Il fait cuire une tranche de songe.|Le songe ressemble au taro.|Elle épluche le songe avec soin.|Le songe est bon en bouillon.</item>
+        <item>Les songes fournissent une chair farineuse.|Plusieurs songes cuisent dans la marmite.|Les songes sont des racines très nutritives.|On prépare les songes pour les fêtes.|Les songes poussent dans les endroits humides.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_49">
+        <item>arachide</item>
+        <item>une arachide</item>
+        <item>des arachides</item>
+        <item>L\'arachide pousse dans le sol.|Il faut casser la coque de l\'arachide.|L\'arachide donne de l\'huile.|Elle a mangé une arachide grillée.|L\'arachide est un fruit sec.</item>
+        <item>Les arachides se grignotent souvent entre amis.|Plusieurs arachides sont grillées avec du sel.|On extrait du beurre des arachides.|Ces arachides proviennent de la récolte locale.|Les arachides se cachent dans de petites coques.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_21_50">
+        <item>datte</item>
+        <item>une datte</item>
+        <item>des dattes</item>
+        <item>La datte vient du palmier.|Je mange une datte très sèche.|La datte est brune et collante.|Elle a retiré le noyau de la datte.|La datte donne beaucoup d\'énergie.</item>
+        <item>Les dattes s\'exposent au marché.|Quelques dattes sont fourrées à la pâte d\'amande.|Les dattes ont une peau charnue.|On déguste les dattes avec un peu de thé.|Les dattes sont naturellement très sucrées.</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="mots_dictees_mots_them_22_1">
+        <item>famille</item>
+        <item>une famille</item>
+        <item>des familles</item>
+        <item>Ma famille habite dans cette maison.|Il aime passer du temps en famille.|La famille se réunit pour le repas.|C\'est une très grande famille.|Elle dessine sa famille sur le papier.</item>
+        <item>Les familles nombreuses bénéficient d\'une réduction.|Plusieurs familles se retrouvent au parc le dimanche.|On aide les familles en difficulté.|Les familles d\'accueil ouvrent leur porte avec générosité.|Les portraits des familles sont accrochés au mur.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_2">
+        <item>époux</item>
+        <item>un époux</item>
+        <item>des époux</item>
+        <item>L\'époux accompagne sa femme.|C\'est un époux très attentionné.|Elle voyage avec son époux.|Elle sourit à son époux.|L\'époux aide aux tâches de la maison.</item>
+        <item>Les époux se sont dit oui devant le maire.|Les deux époux partagent la même passion.|On attend les deux époux pour commencer la cérémonie.|Les époux doivent rester solidaires et affronter les épreuves.|Les noms des époux figurent sur le livret de famille.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_3">
+        <item>père</item>
+        <item>un père</item>
+        <item>des pères</item>
+        <item>Son père travaille au bureau.|Le père joue au ballon avec son fils.|L\'enfant ressemble à son père.|Elle appelle son père au téléphone.|Le rôle du père est important.</item>
+        <item>Les pères de famille se réunissent à l\'école.|Plusieurs pères participent à la fête.|On écoute les pères raconter les histoires de leurs enfants.|Les pères protecteurs veillent sur leurs enfants.|Les conseils des pères sont précieux.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_4">
+        <item>mère</item>
+        <item>une mère</item>
+        <item>des mères</item>
+        <item>Sa mère prépare un bon gâteau.|La mère berce doucement son bébé.|L\'enfant court vers sa mère en souriant.|Sa mère lui donne son avis.|C\'est une mère très attentive.</item>
+        <item>Les mères courageuses travaillent dur.|Les mères s\'organisent pour le covoiturage.|On offre des fleurs à aux mères pour leur fête.|Les mères louves défendent leurs enfants.|Les regards des mères sont remplis de fierté.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_5">
+        <item>papa</item>
+        <item>un papa</item>
+        <item>des papas</item>
+        <item>Mon papa me lit une histoire.|Le papa porte l\'enfant sur son dos.|Il fait un dessin pour son papa.|Elle va au parc avec son papa.|C\'est le meilleur papa du monde.</item>
+        <item>Les papas poules s\'inquiètent souvent.|Les papas bricoleurs réparent les jouets de leurs enfants.|On voit les papas à la sortie de la crèche.|Les papas sont plus protecteurs envers les petites filles.|Les sourires des papas sont communicatifs.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_6">
+        <item>maman</item>
+        <item>une maman</item>
+        <item>des mamans</item>
+        <item>La maman fait un bisou à son fils.|Il appelle sa maman très fort.|Elle aide sa maman dans la cuisine.|La maman range les jouets.|C\'est une maman très douce.</item>
+        <item>Les mamans modernes jonglent avec leur emploi du temps.|Plusieurs mamans discutent devant l\'école.|On remercie les mamans pour leur aide précieuse.|Les mamans fatiguées ont besoin de repos.|Les bras des mamans sont le meilleur refuge.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_7">
+        <item>enfant</item>
+        <item>un enfant</item>
+        <item>des enfants</item>
+        <item>L\'enfant joue dans le sable.|Il y a un enfant dans la cour.|Les enfants courent vers la mer.|La maman regarde son enfant jouer.|L\'enfant dort avec son doudou.</item>
+        <item>Les enfants sages reçoivent une image.|Certains enfants sont très curieux.|On apprend à aux enfants à respecter la nature.|Les enfants joyeux chantent à haute voix.|Les droits des enfants doivent être protégés.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_8">
+        <item>fils</item>
+        <item>un fils</item>
+        <item>des fils</item>
+        <item>Le fils aide son père au garage.|Il est le fils unique de la famille.|Elle aime beaucoup son fils.|Le fils porte le sac de courses.|C\'est le fils de mon voisin.</item>
+        <item>Les fils des forgerons apprenaient autrefois le métier.|Mes fils se sont réunis pour organiser mon anniversaire.|On reconnait tes fils à leur démarche.|Les fils dévoués s\'occupent de leurs deux parents.|Les prénoms des fils sont gravés sur l\'arbre généalogique.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_9">
+        <item>fille</item>
+        <item>une fille</item>
+        <item>des filles</item>
+        <item>La fille fait de la danse.|Il y a une petite fille au parc.|C\'est la fille de la directrice.|La fille range sa chambre.|C\'est une fille très sage.</item>
+        <item>Les filles d\'honneur portent des robes claires.|Des filles jouent à la marelle.|On encourage les filles à faire du sport.|Les filles intelligentes réussissent leurs examens.|Les rires des filles résonnent dans le couloir.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_10">
+        <item>frère</item>
+        <item>un frère</item>
+        <item>des frères</item>
+        <item>Mon frère joue de la guitare.|Son frère lui prête son vélo.|Elle se chamaille avec son frère.|Mon frère est plus grand que moi.|C\'est mon frère ainé.</item>
+        <item>Le cinéma a été inventé par deux frères.|Les frères sont très complices.|On distingue les frères par la couleur de leurs yeux.|Les frères ennemis se sont enfin réconciliés.|Les jeux des deux frères sont mouvementés.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_11">
+        <item>sœur</item>
+        <item>une sœur</item>
+        <item>des sœurs</item>
+        <item>Ma sœur aime beaucoup chanter.|Il raconte son secret à sa sœur.|Elle aide sa sœur pour les devoirs.|Ma sœur porte une robe bleue.|C\'est ma sœur ainée.</item>
+        <item>Les sœurs jumelles se ressemblent comme deux gouttes d\'eau.|Les deux sœurs travaillent dans la même entreprise.|On confie nos doutes à nos sœurs attentives.|Les sœurs de cœur sont inséparables.|Les trois sœurs on fait de belles photos.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_12">
+        <item>bébé</item>
+        <item>un bébé</item>
+        <item>des bébés</item>
+        <item>Le bébé dort dans son berceau.|Je donne le biberon au bébé.|Le bébé commence à marcher.|Elle sourit en voyant son bébé.|Le bébé a de petites mains.</item>
+        <item>Les bébés oiseaux attendent leur nourriture.|Les bébés pleurent pendant la nuit.|On pèse les bébés une fois par mois.|Les bébés nageurs s\'amusent dans la piscine.|Les vêtements de ces bébés sont très mignons.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_13">
+        <item>jumeau</item>
+        <item>un jumeau</item>
+        <item>des jumeaux</item>
+        <item>Il a un jumeau qui lui ressemble.|Le jumeau porte le même pull.|C\'est une chance d\'avoir un frère jumeau.|Je joue avec mon frère jumeau.|C\'est le jumeau de mon ami.</item>
+        <item>Les jumeaux identiques partagent le même ADN.|Les jumeaux sont nés dans ce village.|On offre des cadeaux aux jumeaux.|Les jumeaux turbulents font tourner la tête des parents.|Les poussettes de ces jumeaux sont très larges.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_14">
+        <item>jumelle</item>
+        <item>une jumelle</item>
+        <item>des jumelles</item>
+        <item>Elle a une jumelle très sportive.|Sa jumelle porte la même robe.|Elle ne se sépare jamais de sa sœur jumelle.|Il confond toujours sa jumelle.|C\'est la jumelle de ma cousine.</item>
+        <item>Les jumelles de théâtre permettent de mieux voir.|Les jumelles de vue sont très précises.|On utilise des jumelles pour observer les oiseaux.|Les jumelles inséparables font tout ensemble.|Les valises de des jumelles sont identiques.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_15">
+        <item>mari</item>
+        <item>un mari</item>
+        <item>des maris</item>
+        <item>Son mari travaille en ville.|Le mari offre des fleurs à sa femme.|C\'est un mari très gentil.|Elle sort avec son mari ce soir.|Le mari aide pour le ménage.</item>
+        <item>Les maris dévoués soutiennent leurs épouses.|Plusieurs maris attendent devant le magasin.|On salue les maris exemplaires.|Les maris bricoleurs réparent tout à la maison.|Les alliances des maris brillent au soleil.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_16">
+        <item>femme</item>
+        <item>une femme</item>
+        <item>des femmes</item>
+        <item>Sa femme est une grande artiste.|La femme prépare le voyage.|Il adore la cuisine de sa femme.|Elle est la femme de ce docteur.|C\'est une femme très courageuse.</item>
+        <item>Les femmes du monde entier luttent pour leurs droits.|Certaines femmes ont marqué l\'histoire des sciences.|On admire les femmes pour la détermination dont elles font preuve.|Les femmes d\'affaires voyagent beaucoup.|Les voix de ces femmes sont puissantes.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_17">
+        <item>oncle</item>
+        <item>un oncle</item>
+        <item>des oncles</item>
+        <item>Mon oncle vit à la campagne.|Il va à la pêche avec son oncle.|L\'oncle raconte des blagues.|Elle reçoit un cadeau de son oncle.|C\'est l\'oncle de mon cousin.</item>
+        <item>Les oncles sont des membres précieux de la famille.|Mes oncles étaient présents au mariage.|On écoute tes oncles parler de politique.|Les oncles généreux donnent souvent des cadeaux.|Les rires de mes oncles sont sonores.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_18">
+        <item>tante</item>
+        <item>une tante</item>
+        <item>des tantes</item>
+        <item>Ma tante voyage souvent.|Il rend visite à sa tante.|La tante prépare une tarte.|Tu ressembles à sa tante.|C\'est la tante de ma copine.</item>
+        <item>Les tantes bienveillantes donnent de bons conseils.|Quelques tantes éloignées nous écrivent parfois.|On rend visite à nos tantes durant les vacances.|Ces tantes énergiques aiment la randonnée.|Les jardins de ces tantes sont fleuris.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_19">
+        <item>cousin</item>
+        <item>un cousin</item>
+        <item>des cousins</item>
+        <item>Mon cousin joue au foot.|Il invite son cousin à dormir chez lui.|Mon cousin habite très loin.|Elle rend visite à son cousin.|C\'est le cousin de ma sœur.</item>
+        <item>Les cousins germains partagent les mêmes grands-parents.|Mes deux cousins habitent dans ce quartier.|On s\'amuse bien avec les cousins durant les fêtes.|Mes cousins éloignés se ressemblent physiquement.|Les souvenirs avec mes cousins sont inoubliables.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_20">
+        <item>cousine</item>
+        <item>une cousine</item>
+        <item>des cousines</item>
+        <item>Ma cousine est très drôle.|Il écrit une lettre à sa cousine.|Ta cousine porte un chapeau.|Je joue à la poupée avec ma cousine.|C\'est la cousine de mon frère.</item>
+        <item>Les cousines se confient souvent leurs petits secrets.|Mes cousines vivent à l\'étranger.|On invite tes cousines pour les vacances d\'été.|Les cousines complices partagent la même chambre.|Les robes des deux cousines sont élégantes.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_21">
+        <item>grand-père</item>
+        <item>un grand-père</item>
+        <item>des grands-pères</item>
+        <item>Mon grand-père jardine beaucoup.|Il écoute l\'histoire de son grand-père.|Le grand-père marche avec une canne.|Elle aime son grand-père.|C\'est le grand-père de la famille.</item>
+        <item>Les grands-pères sont souvent la mémoire de la famille.|Plusieurs grands-pères jouent aux à la pétanque.|On respecte la sagesse des grands-pères.|Les grands-pères affectueux adorent leurs enfants.|Les mains des grands-pères sont marquées par le temps.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_22">
+        <item>grand-mère</item>
+        <item>une grand-mère</item>
+        <item>des grands-mères</item>
+        <item>Ma grand-mère tricote un pull.|Il aide sa grand-mère à cuisiner.|La grand-mère raconte ses souvenirs.|Elle embrasse sa grand-mère.|C\'est une grand-mère adorable.</item>
+        <item>Les grands-mères préparent les meilleures confitures.|Quelques grands-mères font encore de la dentelle.|On rend hommage aux grands-mères dévouées.|Les grands-mères actives voyagent à travers le monde.|Mes grands-mères ont toujours des cadeaux pour moi.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_23">
+        <item>neveu</item>
+        <item>un neveu</item>
+        <item>des neveux</item>
+        <item>Mon neveu est encore petit.|Il joue au train avec son neveu.|Le neveu apprend à lire.|Je garde mon neveu ce soir.|C\'est le neveu de mon mari.</item>
+        <item>Les neveux courent partout dans la maison.|Tes neveux vont hériter de cette maison.|Il gâte ses neveux à chaque fête.|Mes neveux sportifs font de la compétition.|Les progrès de mes neveux me réjouissent.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_24">
+        <item>nièce</item>
+        <item>une nièce</item>
+        <item>des nièces</item>
+        <item>Ma nièce a de jolies boucles.|Il offre une poupée à sa nièce.|La nièce chante une chanson.|Elle va au zoo avec sa nièce.|C\'est la nièce de ma femme.</item>
+        <item>Les nièces préparent un spectacle pour la famille.|Tes nièces habitent de l\'autre côté de l\'océan.|J\'envoie des cartes postales à mes nièces.|Mes nièces studieuses passent beaucoup de temps à la bibliothèque.|Les dessins des nièces sont affichés sur le frigo.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_25">
+        <item>maison</item>
+        <item>une maison</item>
+        <item>des maisons</item>
+        <item>La maison de ma tante est bleue.|On dessine une belle maison.|Toute la famille est dans la maison.|Elle arrive à la maison le soir.|La maison a un grand jardin.</item>
+        <item>Les maisons en briques sont à la mode.|Plusieurs maisons anciennes ont été rénovées.|On construit les maisons avec des matériaux écologiques.|Les maisons des vacances sont fermées en hiver.|Les toits des maisons sont couverts de tuiles rouges.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_26">
+        <item>nom</item>
+        <item>un nom</item>
+        <item>des noms</item>
+        <item>L\'enfant écrit son nom sur le cahier.|Toute la famille porte le même nom.|Il épèle son nom de famille.|Elle a signé son nom en bas de la lettre.|Chaque personne a un nom.</item>
+        <item>Les noms des ancêtres sont inscrits sur cet arbre.|Vos noms figurent sur la liste des invités.|On cherche les noms des fleurs du jardin.|Les noms propres commencent par une majuscule.|Elle a donné des noms à ses poupées.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_27">
+        <item>prénom</item>
+        <item>un prénom</item>
+        <item>des prénoms</item>
+        <item>Les parents choisissent un joli prénom.|Il retient le prénom de son cousin.|Elle appelle sa sœur par son prénom.|Le prénom s\'écrit avec une majuscule.|Ils cherchent un prénom original.</item>
+        <item>Les prénoms composés sont très courants.|Des prénoms anciens reviennent à la mode.|On a gravé les prénoms sur les gourmettes.|Les prénoms de rois ont marqué l\'histoire.|Les diminutifs des prénoms sont affectueux.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_28">
+        <item>âge</item>
+        <item>un âge</item>
+        <item>des âges</item>
+        <item>Personne ne connait l\'âge de mon grand-père.|Je demande l\'âge de son petit frère.|La petite fille a presque le même âge que moi.|Elle a l\'âge de ma mère.|Des enfants de tout âge jouent ensemble.</item>
+        <item>Les différents âges de la vie apportent leur sagesse.|Plusieurs âges sont représentés dans ce club.|On classe ces fossiles par leurs âges géologiques.|Les âges ingrats sont parfois difficiles à passer.|Les pyramides des âges montrent l\'évolution de la population.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_29">
+        <item>mariage</item>
+        <item>un mariage</item>
+        <item>des mariages</item>
+        <item>La famille fête un grand mariage.|Il prend des photos pendant le mariage.|L\'album du mariage est sur l\'étagère.|Elle porte sa robe de mariage.|Le mariage réunit tous les oncles.</item>
+        <item>Les mariages princiers font rêver beaucoup de gens.|Les mariages ont lieu à la mairie tous les samedis.|On célèbre les mariages avec beaucoup de musique.|Les mariages réussis durent toute une vie.|Les préparatifs des mariages demandent du temps.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_30">
+        <item>naissance</item>
+        <item>une naissance</item>
+        <item>des naissances</item>
+        <item>La naissance du bébé apporte de la joie.|Il annonce la naissance à ses parents.|Le carnet de naissance est bien rempli.|Elle a rangé la chambre pour la naissance.|Les parents célèbrent cette nouvelle naissance.</item>
+        <item>Les naissances multiples sont rares dans ce village.|Plusieurs naissances ont été enregistrées ce matin.|On fête les naissances avec des cadeaux.|Les naissances de printemps réjouissent les fermiers.|Le livret de famille enregistre les naissances.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_31">
+        <item>anniversaire</item>
+        <item>un anniversaire</item>
+        <item>des anniversaires</item>
+        <item>Je souffle les bougies de mon anniversaire.|La maman prépare le gâteau d\'anniversaire.|Elle reçoit une carte pour l\'anniversaire.|Le petit garçon adore son anniversaire.|Ils chantent tous pour l\'anniversaire.</item>
+        <item>Les anniversaires de mariage sont des moments forts.|Elle fête toujours ses anniversaires à la discothèque.|On n\'oublie jamais les anniversaires importants.|Les anniversaires sont l\'occasion de se revoir.|Les surprises pour les anniversaires font toujours plaisir.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_32">
+        <item>cadeau</item>
+        <item>un cadeau</item>
+        <item>des cadeaux</item>
+        <item>Le neveu déballe son cadeau.|Il offre un beau cadeau à sa tante.|La boite du cadeau est rouge.|Elle a caché le cadeau sous le lit.|Les enfants attendent les cadeaux.</item>
+        <item>Les cadeaux sont placés sous le sapin.|Les cadeaux sont emballés avec du ruban.|On distribue les cadeaux après le dessert.|Les cadeaux offerts par les enfants sont plus touchants.|La liste des cadeaux est prête pour la fête.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_33">
+        <item>fête</item>
+        <item>une fête</item>
+        <item>des fêtes</item>
+        <item>La famille organise une fête.|Il danse beaucoup pendant la fête.|La musique anime la fête.|Je prépare la décoration de la fête.|Tout le monde s\'amuse à la fête.</item>
+        <item>Les fêtes foraines attirent beaucoup de monde.|Certaines fêtes religieuses durent plusieurs jours.|On prépare les fêtes avec beaucoup d\'enthousiasme.|La période des fêtes arrivent bientôt.|Les lendemains des fêtes, tout le monde est fatigué.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_34">
+        <item>souvenir</item>
+        <item>un souvenir</item>
+        <item>des souvenirs</item>
+        <item>Le grand-père raconte un vieux souvenir.|On garde un bon souvenir du voyage.|Cette photo rappelle un bon souvenir.|Elle chérit ce souvenir d\'enfance.|Il veut garder un bon souvenir de son père.</item>
+        <item>Les souvenirs des vacances s\'accumulent dans l\'album.|Des souvenirs heureux reviennent en mémoire.|On achète des souvenirs dans les boutiques du port.|Les souvenirs douloureux s\'effacent avec le temps.|Les souvenirs dans cette boite sont un trésor pour moi.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_35">
+        <item>photo</item>
+        <item>une photo</item>
+        <item>des photos</item>
+        <item>Le père prend une photo de sa fille.|Il encadre la photo de ses parents.|La photo montre toute la famille.|Elle observe la photo en souriant.|Range cette photo dans le tiroir.</item>
+        <item>Les photos de classe sont de bons souvenirs.|Certaines photos en noir et blanc sont très belles.|On imprime les photos sur du papier brillant.|Des photos décorent les murs du couloir.|Les cadres des photos sont en argent.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_36">
+        <item>album</item>
+        <item>un album</item>
+        <item>des albums</item>
+        <item>La maman tourne les pages de l\'album.|Je colle une image dans l\'album.|L\'album contient des photos anciennes.|Elle montre l\'album à sa cousine.|On range l\'album dans la bibliothèque.</item>
+        <item>Les albums sont sur l\'étagère.|Des albums de musique sont sortis cet été.|On feuillette les albums avec nostalgie.|Les albums à colorier plaisent aux enfants.|Les couvertures des albums sont rigides.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_37">
+        <item>histoire</item>
+        <item>une histoire</item>
+        <item>des histoires</item>
+        <item>Mon père nous raconte une histoire.|Il écoute l\'histoire de sa grand-mère.|L\'histoire familiale est passionnante.|Elle invente une histoire pour son frère.|L\'histoire dans ce livre est passionnante.</item>
+        <item>Les histoires drôles font rire toute la famille.|Les histoires de fantômes font peur le soir.|On lit des histoires avant de nous endormir.|Les histoires vécues sont très émouvantes.|Les détails de tes histoires sont incroyables.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_38">
+        <item>secret</item>
+        <item>un secret</item>
+        <item>des secrets</item>
+        <item>La nièce murmure un secret.|Garde bien ce secret.|Le secret reste dans la famille.|Elle partage son secret avec sa jumelle.|Personne ne connait ce grand secret.</item>
+        <item>Les secrets de la nation sont protégés par la loi.|Les secrets de fabrication sont bien gardés.|On confie les secrets à des personnes de confiance.|Ce sont des secrets de polichinelle connus de tous.|Il est parti sans révéler ses secrets.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_39">
+        <item>joie</item>
+        <item>une joie</item>
+        <item>des joies</item>
+        <item>Le rire du bébé apporte de la joie.|Il saute de joie devant ses cadeaux.|La famille partage une immense joie.|Elle exprime sa joie en chantant.|Cette nouvelle remplit le foyer de joie.</item>
+        <item>Les joies simples de la vie sont les meilleures.|Les joies partagées renforcent l\'amitié.|On savoure les joies quotidiennes avec bonheur.|Les joies immenses nous font oublier les soucis.|Les joies pansent les blessures du cœur.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_40">
+        <item>rire</item>
+        <item>un rire</item>
+        <item>des rires</item>
+        <item>Le rire de l\'enfant éclate au salon.|Il a un rire très communicatif.|On entend des rires dans la maison.|Elle ne peut pas s\'empêcher de rire.|Le rire rend la journée plus belle.</item>
+        <item>Les rires moqueurs ne sont pas gentils.|Certains rires nerveux surviennent en public.|On apprécie ces rires francs et sincères.|Ces rires d\'enfants sont un vrai plaisir.|Les éclats de rires sont nombreux ce soir.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_41">
+        <item>jeu</item>
+        <item>un jeu</item>
+        <item>des jeux</item>
+        <item>Les cousins inventent un nouveau jeu.|Je range mon jeu dans le placard.|Le jeu se termine dans le calme.|Elle explique les règles du jeu.|Tout le monde participe au jeu.</item>
+        <item>Les jeux de société animent les soirées d\'hiver.|Les jeux olympiques commencent bientôt.|On adore les jeux de piste en forêt.|Les enfants adorent les jeux collectifs.|Les boites des jeux sont empilées dans la chambre.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_42">
+        <item>berceau</item>
+        <item>un berceau</item>
+        <item>des berceaux</item>
+        <item>Le bébé dort dans son berceau.|Il installe le berceau dans la chambre.|Le berceau est en bois clair.|Je balance doucement le berceau.|On prépare le berceau pour la naissance.</item>
+        <item>Les berceaux d\'autrefois étaient plus résistants.|Les berceaux à bascule sont encore utilisés.|On installe les berceaux des jumeaux près du lit.|Les berceaux accueillent les bébés.|Les draps de ces berceaux sont en coton doux.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_43">
+        <item>voyage</item>
+        <item>un voyage</item>
+        <item>des voyages</item>
+        <item>Mon fils prépare son premier voyage.|Ses parents écoutent le récit de son voyage.|Le voyage dure plusieurs heures.|Elle revient d\'un voyage lointain.|Toute la famille aime le voyage.</item>
+        <item>Les voyages forment la jeunesse selon le dicton.|Les voyages restent des moments mémorables.|On planifie nos voyages longtemps à l\'avance.|Les voyages scolaires laissent de bons souvenirs.|Les récits des voyages passionnent les auditeurs.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_44">
+        <item>repas</item>
+        <item>un repas</item>
+        <item>des repas</item>
+        <item>Le repas réunit toute la famille.|Il aide à débarrasser après le repas.|Le repas du dimanche est copieux.|On discute beaucoup pendant le repas.|Préparez le repas pour les invités.</item>
+        <item>Les repas des fêtes sont souvent très longs.|Des repas équilibrés sont servis chaque jour.|On partage les repas dans la bonne humeur.|Les repas en famille renforcent les liens.|Les horaires des repas sont fixes à la maison.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_45">
+        <item>foyer</item>
+        <item>un foyer</item>
+        <item>des foyers</item>
+        <item>La chaleur du foyer réchauffe la pièce.|Je rentre au foyer après ma journée.|Le foyer est le cœur de la maison.|Je décore mon foyer avec soin.|On se retrouve tous autour du foyer.</item>
+        <item>Les foyers des jeunes sont des lieux pour les loisirs.|Des foyers accueillent les jeunes travailleurs.|On installe des foyers pour les personnes sans abri.|Des foyers chaleureux sont très agréables en hiver.|Les cheminées des foyers fument dans le ciel.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_46">
+        <item>conseil</item>
+        <item>un conseil</item>
+        <item>des conseils</item>
+        <item>Le père donne un bon conseil.|Il suit le conseil de son oncle.|Chaque conseil aide à grandir.|Elle prend conseil auprès de sa tante.|Écoute bien ce précieux conseil.</item>
+        <item>Les conseils des classes se réunissent en fin de trimestre.|Les conseils municipaux votent le budget.|On demande des conseils aux experts.|Tes conseils de jardinage sont très utiles.|Les brochures des conseils sont distribuées gratuitement.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_47">
+        <item>visite</item>
+        <item>une visite</item>
+        <item>des visites</item>
+        <item>La tante rend visite à ses neveux.|Il attend la visite de son cousin.|La visite se passe dans la joie.|Elle fait une visite surprise.|On prépare la maison pour la visite.</item>
+        <item>Les visites guidées du musée sont très instructives.|Certaines visites médicales sont obligatoires.|On fait des visites pour découvrir la région.|Les visites de courtoisie sont appréciées.|Les visites ne sont pas autorisées le soir.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_48">
+        <item>lien</item>
+        <item>un lien</item>
+        <item>des liens</item>
+        <item>Le lien familial est très fort.|Il a gardé un lien avec ses racines.|Le lien entre les frères est solide.|Je renforce les liens avec ma famille.|La photo montre ce lien unique.</item>
+        <item>Les liens sur internet permettent de naviguer facilement.|Nos liens se sont créés depuis le collège.|On tisse des liens au fil des années.|Les liens de parenté sont parfois complexes.|Les nœuds des liens doivent être bien serrés.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_49">
+        <item>ainé</item>
+        <item>un ainé</item>
+        <item>des ainés</item>
+        <item>Le frère ainé protège sa sœur.|Demande l\'avis de ton ainé.|L\'ainé montre l\'exemple aux petits.|Elle aime jouer avec son frère ainé.|Le fils ainé quitte la maison demain.</item>
+        <item>Les ainés de la commune se réunissent au club.|Les ainés racontent la vie d\'autrefois.|On respecte l\'expérience des ainés.|Je joue à la pétanque avec les ainés.|Les conseils des ainés sont toujours avisés.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_22_50">
+        <item>cadet</item>
+        <item>un cadet</item>
+        <item>des cadets</item>
+        <item>Le frère cadet suit partout son ainé.|Il prête ses jouets à son cadet.|Le cadet apprend vite avec les grands.|Elle prend soin de son cadet.|Le fils cadet ressemble à son père.</item>
+        <item>Les cadets de l\'armée défilent avec fierté.|Les cadets participent au tournoi de tennis.|On encourage les cadets dans leurs efforts.|Les cadets enthousiastes découvrent le métier.|Les tenues de des cadets sont impeccables.</item>
+    </string-array>
+
+
+    <string-array name="mots_dictees_mots_them_23_1">
+        <item>météo</item>
+        <item>une météo</item>
+        <item>des météos</item>
+        <item>Le grand-père écoute la météo à la radio.|La météo annonce du soleil pour demain.|Ton ami regarde la météo avant de partir.|Maman change ses plans à cause de la météo.|Le bulletin de la météo est très précis.</item>
+        <item>Les météos de la semaine prévoient de l\'orage.|Les météos régionales sont plus précises.|On compare les météos pour choisir le jour du départ.|Les météos incertaines perturbent les vols.|Les présentateurs des météos sont célèbres.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_2">
+        <item>débardeur</item>
+        <item>un débardeur</item>
+        <item>des débardeurs</item>
+        <item>Le débardeur sèche vite sous le ciel bleu.|Le cycliste porte un débardeur à cause de la chaleur.|Le débardeur est posé derrière la chaise.|La randonneuse sent la texture du débardeur sur sa peau.|Les sportifs s\'entrainent avec un débardeur léger.</item>
+        <item>Les débardeurs de coton sont confortables en été.|Les sportifs mettent leurs débardeurs pour s\'entrainer.|On admire les débardeurs éclatants sur les mannequins.|Les débardeurs de sport plaisent aux travailleurs.|Les motifs des débardeurs brillent au soleil.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_3">
+        <item>rayon</item>
+        <item>un rayon</item>
+        <item>des rayons</item>
+        <item>Un rayon de soleil traverse la fenêtre.|Le photographe admire le rayon lumineux sur l\'eau.|Tes yeux brillent tel un rayon de soleil.|Tu es mon rayon de soleil.|Chaque rayon de lumière apporte de la joie.</item>
+        <item>Les rayons du soleil chauffent la serre.|Les rayons cosmiques traversent l\'espace.|On installe ces rayons de rangement dans le garage.|Les rayons ultraviolets sont dangereux pour la peau.|Les roues des vélos possèdent de fins rayons.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_4">
+        <item>ciel</item>
+        <item>un ciel</item>
+        <item>des cieux</item>
+        <item>Le ciel est couvert de gros nuages gris.|L\'astronome regarde les étoiles dans le ciel nocturne.|Un avion laisse une trace blanche dans le ciel.|La petite fille observe le changement de couleur du ciel.|Le ciel s\'éclaircit après la tempête.</item>
+        <item>Les cieux se chargent d\'électricité avant l\'orage.|Des cieux étoilés sont peints sur le plafond.|On implore les cieux pour avoir de la pluie.|Les cieux cléments favorisent la navigation.|Les couleurs des cieux sont magnifiques.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_5">
+        <item>nuage</item>
+        <item>un nuage</item>
+        <item>des nuages</item>
+        <item>Le petit nuage blanc dérive dans l\'air.|L\'écolier dessine un gros nuage sur son cahier.|La pluie tombe quand le nuage est lourd.|Le promeneur regarde la forme étrange d\'un nuage.|Les nuages cachent le sommet de la colline.</item>
+        <item>Les nuages de poussière s\'élèvent sur la route.|Quelques nuages menaçants approchent du village.|On surveille ces nuages depuis la station météo.|Les nuages annoncent une pluie dans quelques temps.|Les mouvements de ces nuages sont rapides.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_6">
+        <item>pluie</item>
+        <item>une pluie</item>
+        <item>des pluies</item>
+        <item>La pluie tape contre les vitres de la maison.|Le jardinier aime marcher sous la pluie.|La pluie arrose les légumes du jardin.|La voisine ouvre son parapluie car la pluie arrive.|Le bruit de la pluie m\'aide à dormir.</item>
+        <item>Les pluies torrentielles inondent les rues.|Plusieurs pluies fines rafraichissent l\'atmosphère.|On attend les pluies pour remplir les citernes.|Les pluies acides abiment les statues.|Les prévisions annoncent de pluies.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_7">
+        <item>goutte</item>
+        <item>une goutte</item>
+        <item>des gouttes</item>
+        <item>Une goutte de pluie tombe sur mon nez.|Le serveur observe la goutte d\'eau sur son verre.|La goutte de pluie disparait dans l\'océan.|Ton cousin essuie une goutte sur son manteau.|Chaque goutte de rosée brille au matin.</item>
+        <item>Les gouttes de pluie mouillent la route.|Des gouttes de sirop tombent à côté.|On verse les gouttes dans le médicament.|Les gouttes froides surprennent les passants.|Les gouttes d\'eau s\'évaporent au soleil.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_8">
+        <item>vent</item>
+        <item>un vent</item>
+        <item>des vents</item>
+        <item>Le vent souffle fort dans les arbres.|Le skieur sent le vent frais sur son visage.|Le vent emporte les feuilles mortes.|Ma sœur ferme la porte à cause du vent.|Le vent déplace les nuages.</item>
+        <item>Les vents s\'opposent à l\'avancement du voilier.|Des vents violents ont cassé les branches.|On mesure les vents avec un anémomètre.|Des vents de sable aveuglent les chauffeurs.|La direction des vents peut changer à tout moment.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_9">
+        <item>orage</item>
+        <item>un orage</item>
+        <item>des orages</item>
+        <item>L\'orage gronde au loin.|Le campeur rentre vite avant le début de l\'orage.|Le ciel devient noir pendant l\'orage.|L\'enfant a peur du bruit de l\'orage.|L\'orage apporte souvent de la fraicheur.</item>
+        <item>Les orages d\'été éclatent en fin de journée.|Les orages magnétiques perturbent les radios.|On s\'enferme jusqu\'à la fin des orages.|Les orages soudains obligent à s\'abriter.|Les éclairs des orages illuminent la vallée.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_10">
+        <item>éclair</item>
+        <item>un éclair</item>
+        <item>des éclairs</item>
+        <item>Un éclair illumine le ciel sombre.|Le veilleur voit un éclair juste avant le tonnerre.|L\'éclair permet de calculer la distance du tonnerre.|Ta tante sursaute en voyant l\'éclair.|Le ciel brille d\'un éclair soudain.</item>
+        <item>Les éclairs au chocolat sont mes gâteaux préférés.|Les éclairs déchirent le ciel noir.|On photographie les éclairs pendant la tempête.|Les éclairs surprennent les enfants.|Les reflets des éclairs sont aveuglants.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_11">
+        <item>tonnerre</item>
+        <item>un tonnerre</item>
+        <item>des tonnerres</item>
+        <item>Le bruit du tonnerre fait vibrer les vitres.|Le berger entend le tonnerre après l\'éclair.|Le tonnerre gronde de plus en plus fort.|Mon frère se bouche les oreilles à cause du tonnerre.|Le son du tonnerre résonne dans la pièce.</item>
+        <item>Les tonnerres d\'applaudissements saluent l\'acteur.|Des tonnerres lointains font trembler le sol.|On enregistre des tonnerres pour le cinéma.|Des tonnerres assourdissants empêchent de dormir.|Les tonnerres durent toute la journée.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_12">
+        <item>cyclone</item>
+        <item>un cyclone</item>
+        <item>des cyclones</item>
+        <item>Le cyclone menace les toits des maisons.|Le moniteur de voile surveille l\'arrivée du cyclone.|Le cyclone se déplace doucement sur la mer.|Ta cousine redoute l\'approche du cyclone.|La montagne est impressionnante sous le cyclone.</item>
+        <item>Les cyclones tropicaux naissent sur les océans.|Plusieurs cyclones successifs traversent la zone.|On surveille les cyclones sur les écrans.|Les cyclones dévastateurs sont effrayants.|Les trajectoires des cyclones sont mesurées.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_13">
+        <item>flocon</item>
+        <item>un flocon</item>
+        <item>des flocons</item>
+        <item>Un flocon de neige se pose sur sa main.|Le chat regarde le flocon tomber du ciel.|Chaque flocon possède une forme unique.|Cette fille essaie d\'attraper un petit flocon de neige.|La forme de ce flocon est remarquable.</item>
+        <item>Les flocons sont emportés par le vent.|Des flocons légers tourbillonnent dans l\'air.|On observe les flocons au microscope.|Les enfants jouent avec les flocons de neige.|Les structures des flocons sont complexes.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_14">
+        <item>glace</item>
+        <item>une glace</item>
+        <item>des glaces</item>
+        <item>La glace recouvre le petit lac.|Le jeune garçon glisse doucement sur la glace.|La glace est très glissante ce matin.|La glace fond pour donner de l\'eau liquide.|Le patineur danse sur la glace bleue.</item>
+        <item>Les glaces à la vanille sont rafraichissantes.|Les enfants mangent des glaces.|On achète des glaces pour le dessert.|Les glaces polaires fondent rapidement.|Les parfums des glaces sont variés.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_15">
+        <item>grêle</item>
+        <item>une grêle</item>
+        <item>des grêles</item>
+        <item>La grêle tombe soudainement sur le toit.|L\'automobiliste entend le bruit de la grêle.|La grêle abime les fleurs du jardin.|Maman se met à l\'abri pour éviter la grêle.|Les morceaux de grêle sont comme des billes.</item>
+        <item>Les grêles arrivent parfois par surprise.|Des grêles soudaines ont détruit les récoltes.|On craint les grêles pendant le printemps.|Les grêles drues tambourinent sur les volets.|Les diamètres des grêles sont impressionnants.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_16">
+        <item>brume</item>
+        <item>une brume</item>
+        <item>des brumes</item>
+        <item>La brume matinale cache le paysage.|Le marin marche dans la brume légère du port.|La brume disparait avec le soleil.|La voyageuse voit la brume monter doucement.|Le bateau avance dans la brume.</item>
+        <item>Les brumes d\'automne enveloppent la forêt.|Des brumes de chaleur apparaissent sur la route.|On traverse les brumes avec prudence.|Des brumes épaisses limitent la visibilité.|Les silhouettes dans les brumes sont floues.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_17">
+        <item>brouillard</item>
+        <item>un brouillard</item>
+        <item>des brouillards</item>
+        <item>Le brouillard est très épais sur la route.|Le conducteur allume ses phares dans le brouillard.|Le brouillard nous empêche de voir le mont.|La randonneuse se perd dans le brouillard.|Le brouillard se lève lentement.</item>
+        <item>Les brouillards givrants rendent le sol glissant.|Les brouillards denses perturbent la circulation aérienne.|On dissipe les brouillards avec des ventilateurs.|Les brouillards matinaux sont fréquents en vallée.|Les brouillards réduisent la visibilité.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_18">
+        <item>tempête</item>
+        <item>une tempête</item>
+        <item>des tempêtes</item>
+        <item>La tempête souffle avec une grande violence.|Le chat reste à la maison pendant la tempête.|La tempête agite les vagues de la mer.|Ma grand-mère entend siffler la tempête dehors.|Les arbres penchent sous la tempête.</item>
+        <item>Les tempêtes de neige bloquent les cols.|Plusieurs tempêtes tropicales traversent l\'océan.|On subit ces tempêtes chaque année.|Ces tempêtes médiatiques agitent l\'opinion.|Les dégâts de ces tempêtes sont importants.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_19">
+        <item>randonnée</item>
+        <item>une randonnée</item>
+        <item>des randonnées</item>
+        <item>Le guide fait une randonnée en montagne.|La randonnée nécessite de bonnes chaussures.|La sportive adore la randonnée sous le soleil.|Le sentier de la randonnée est bien balisé.|Une longue randonnée fatigue les jambes.</item>
+        <item>Les randonnées équestres traversent la forêt.|Des randonnées pédestres sont prévues ce mois-ci.|On organise des randonnées pour découvrir la région.|Les randonnées nocturnes nécessitent une lampe.|Les paysages des randonnées sont superbes.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_20">
+        <item>chaleur</item>
+        <item>une chaleur</item>
+        <item>des chaleurs</item>
+        <item>La chaleur de l\'été est parfois lourde.|Le randonneur cherche un peu d\'eau à cause de la chaleur.|La chaleur du radiateur réchauffe la pièce.|Le parasol le protège de la chaleur.|La chaleur est intense ce midi.</item>
+        <item>Les chaleurs excessives fatiguent l\'organisme.|Des chaleurs caniculaires durent des semaines.|On évite les chaleurs en restant dans l\'ombre.|Les chaleurs humaines sont réconfortantes.|Les records des chaleurs sont enregistrés.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_21">
+        <item>froid</item>
+        <item>un froid</item>
+        <item>des froids</item>
+        <item>Le froid de l\'hiver fait rougir les joues.|Le petit garçon tremble de froid sans son manteau.|Le froid fige l\'eau du seau dehors.|La maitresse aime le froid sec du matin.|Un grand froid s\'installe sur le pays.</item>
+        <item>Les froids sibériens sont difficiles à supporter.|Les froids vifs ont gelé les bourgeons.|On combat les froids avec de gros pulls.|Les froids polaires nécessitent des vêtements adaptés.|Les intensités des froids varient selon l\'altitude.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_22">
+        <item>température</item>
+        <item>une température</item>
+        <item>des températures</item>
+        <item>La température baisse pendant la nuit.|Le technicien vérifie la température sur l\'écran.|La température de l\'eau est parfaite.|La secrétaire note la température chaque matin.|La température monte avec le soleil.</item>
+        <item>Les températures douces sont agréables.|Des températures négatives sont prévues.|On surveille les températures pour le jardin.|Des températures extrêmes endommagent le matériel.|Les variations des températures sont brusques.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_23">
+        <item>ombre</item>
+        <item>une ombre</item>
+        <item>des ombres</item>
+        <item>Le touriste se repose à l\'ombre du grand arbre.|L\'ombre s\'allonge en fin de journée.|Il n\'y a pas d\'ombre dans le jardin.|La lectrice cherche l\'ombre pour lire son livre.|L\'ombre protège les fleurs du soleil.</item>
+        <item>Les ombres chinoises amusent les enfants.|Quelques ombres furtives passent devant la fenêtre.|L\'homme joue avec les ombres sur le mur.|Les ombres portées sont très longues au crépuscule.|Les silhouettes de ces ombres sont nettes.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_24">
+        <item>lumière</item>
+        <item>une lumière</item>
+        <item>des lumières</item>
+        <item>La lumière du jour entre dans la chambre.|Le concierge allume la lumière pour mieux voir.|La lumière du phare guide les bateaux.|Ta maman aime la lumière douce du soir.|La lumière du soleil est essentielle.</item>
+        <item>Les lumières de la ville brillent de loin.|Certaines lumières artificielles fatiguent les yeux.|On tamise les lumières pour l\'ambiance.|Les lumières colorées décorent le sapin.|Allumez toutes les lumières de la maison.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_25">
+        <item>humidité</item>
+        <item>une humidité</item>
+        <item>des humidités</item>
+        <item>L\'humidité de l\'air rend le sol collant.|L\'agriculteur sent l\'humidité après la pluie.|L\'humidité abime les murs du garage.|L\'exploratrice n\'aime pas l\'humidité de la forêt.|Le linge sèche mal à cause de l\'humidité.</item>
+        <item>Les humidités excessives favorisent les mousses.|Les humidités des pièces non aérées sont difficiles à traiter.|On mesure les humidités avec un capteur.|Les humidités stagnantes provoquent des odeurs.|Les traces des humidités sont noires.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_26">
+        <item>sécheresse</item>
+        <item>une sécheresse</item>
+        <item>des sécheresses</item>
+        <item>La terre craque à cause de la sécheresse.|Le cultivateur doit arroser pendant la sécheresse.|La sécheresse dure depuis trois mois.|Ton voisin observe les effets de la sécheresse.|Le jardin souffre de cette sécheresse.</item>
+        <item>Les sécheresses répétées épuisent les réserves d\'eau.|Les sécheresses historiques ont marqué les esprits.|On prévoit les sécheresses à cause du manque de neige.|Les sécheresses prolongées jaunissent les pelouses.|Les bilans des sécheresses sont inquiétants.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_27">
+        <item>fraicheur</item>
+        <item>une fraicheur</item>
+        <item>des fraicheurs</item>
+        <item>La fraicheur du matin est agréable.|Le chat cherche un peu de fraicheur sur le toit.|La pluie apporte une douce fraicheur.|La randonneuse apprécie la fraicheur de l\'ombre.|Le vent garde une certaine fraicheur.</item>
+        <item>Les fraicheurs nocturnes imposent de fermer les fenêtres.|Les fraicheurs du printemps retardent les bourgeons.|On savoure les fraicheurs après une canicule.|Ces fraicheurs matinales font briller la rosée.|Les intensités des fraicheurs varient selon l\'altitude.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_28">
+        <item>horizon</item>
+        <item>un horizon</item>
+        <item>des horizons</item>
+        <item>Le soleil se couche à l\'horizon.|Le capitaine regarde l\'horizon sur la mer.|Le ciel et l\'eau se joignent à l\'horizon.|La vigie aperçoit un bateau à l\'horizon.|L\'horizon devient rose ce soir.</item>
+        <item>Les horizons lointains attirent les grands voyageurs.|Les horizons dégagés permettent de voir loin.|On explore de nouveaux horizons avec curiosité.|Les horizons brumeux cachent la côte.|Les limites des horizons semblent infinies.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_29">
+        <item>clarté</item>
+        <item>une clarté</item>
+        <item>des clartés</item>
+        <item>La clarté du jour réveille les gens.|L\'architecte aime la clarté de cette pièce.|La clarté de la lune éclaire le bois.|L\'ouvrier a besoin de clarté pour travailler.|Le brouillard réduit la clarté du ciel.</item>
+        <item>Les clartés du crépuscule sont souvent orangées.|Des clartés boréales dansent dans le ciel.|On cherche des clartés naturelles pour photographier.|Les clartés d\'hiver sont froides mais belles.|Les sources des clartés sont multiples.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_30">
+        <item>air</item>
+        <item>un air</item>
+        <item>des airs</item>
+        <item>L\'air de la montagne est très pur.|Le touriste respire le bon air.|Le ballon monte haut en l\'air.|La patineuse sent l\'air frais sur sa peau.|Il y a un air de fête au village.</item>
+        <item>Les airs de musique résonnent sur la place.|Son ballon de baudruche disparait dans les airs.|On prend des airs sérieux pour discuter du projet.|Jette le ballon dans les airs.|Les courants des airs déplacent les voiliers.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_31">
+        <item>souffle</item>
+        <item>un souffle</item>
+        <item>des souffles</item>
+        <item>Le souffle du vent agite les fleurs.|Le nageur retient son souffle devant le froid.|Le souffle de l\'air est très doux.|La touriste sent le souffle chaud du soleil.|Un petit souffle suffit pour le moulin.</item>
+        <item>Les souffles des baleines sont visibles au loin.|Les souffles du vent tournent les pages.|On écoute les souffles réguliers pendant le sommeil.|Des souffles d\'air frais entrent par la fenêtre.|Les bruits des souffles sont apaisants.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_32">
+        <item>calme</item>
+        <item>un calme</item>
+        <item>des calmes</item>
+        <item>Le calme revient après la pluie.|Le lecteur profite du calme du jardin.|Le calme plat règne sur la mer.|Cette femme aime le calme de la nuit.|La météo annonce un temps calme.</item>
+        <item>Les calmes tropicaux surprennent les marins.|Certains calmes apparents cachent une tempête.|On apprécie les calmes après le bruit de la ville.|Les calmes olympiens impressionnent l\'adversaire.|Les bienfaits des calmes sont immédiats.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_33">
+        <item>douceur</item>
+        <item>une douceur</item>
+        <item>des douceurs</item>
+        <item>La douceur de l\'automne est belle.|Le voyageur apprécie la douceur du climat.|Le vent souffle avec beaucoup de douceur.|La petite fille sourit devant la douceur du soir.|Le printemps apporte de la douceur.</item>
+        <item>Les douceurs de la vie sont souvent simples.|Des douceurs sucrées sont offertes au café.|On recherche des douceurs à la campagne.|L\'épicier offre des douceurs gratuitement.|Les saveurs des douceurs ravissent les gourmands.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_34">
+        <item>patinage</item>
+        <item>un patinage</item>
+        <item>des patinages</item>
+        <item>Le patinage demande beaucoup d\'équilibre.|L\'athlète pratique le patinage sur le lac.|La séance de patinage dure une heure.|La championne glisse avec grâce en patinage.|Le club de patinage est très fréquenté.</item>
+        <item>Les patinages artistiques sont diffusés à la télévision.|Les patinages des roues sont dangereux sur l\'eau.|On évite les patinages en changeant les pneus.|Les patinages synchronisés demandent du travail.|Les styles des patinages sont variés.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_35">
+        <item>thermomètre</item>
+        <item>un thermomètre</item>
+        <item>des thermomètres</item>
+        <item>Le thermomètre indique dix degrés.|Le jardinier regarde le thermomètre dehors.|Le thermomètre monte rapidement.|La maman vérifie la température sur son thermomètre.|Le thermomètre est fixé au mur.</item>
+        <item>Les thermomètres médicaux sont rangés dans la boite.|Quelques thermomètres à alcool sont accrochés ici.|On étalonne les thermomètres avec précision.|Les thermomètres digitaux lisent la température.|Les tubes des thermomètres sont fragiles.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_36">
+        <item>baromètre</item>
+        <item>un baromètre</item>
+        <item>des baromètres</item>
+        <item>L\'aiguille du baromètre chute.|Le marin consulte son baromètre le matin.|Le baromètre annonce du beau temps.|Ma tante possède un vieux baromètre.|Le baromètre mesure la pression.</item>
+        <item>Les baromètres de l\'économie sont au rouge.|Quelques baromètres anciens décorent le salon.|On ajuste les baromètres selon l\'altitude.|Les baromètres mesurent la pression.|Les cadrans des baromètres sont dorés.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_37">
+        <item>girouette</item>
+        <item>une girouette</item>
+        <item>des girouettes</item>
+        <item>La girouette tourne selon le sens du vent.|Le paysan regarde la direction de la girouette.|La girouette est posée sur le toit.|L\'artiste dessine une girouette en fer.|La girouette indique le nord.</item>
+        <item>Les girouettes des clochers grincent parfois.|Des girouettes en forme de coq sont visibles.|On installe des girouettes sur les cheminées.|Les girouettes colorées tournent rapidement.|Les flèches des girouettes pointent le vent.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_38">
+        <item>parapluie</item>
+        <item>un parapluie</item>
+        <item>des parapluies</item>
+        <item>Ton frère ouvre son parapluie bleu.|Le vent retourne son parapluie.|Ta collègue a oublié son parapluie au bureau.|Le parapluie protège de la pluie.|On partage un grand parapluie.</item>
+        <item>Les parapluies s\'ouvrent tous en même temps.|Les couleurs de nos parapluies sont très vives.|On range ces parapluies à côté de la porte.|Les parapluies pliants tiennent dans le sac.|Mes parapluies sont très solides.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_39">
+        <item>imperméable</item>
+        <item>un imperméable</item>
+        <item>des imperméables</item>
+        <item>Le petit garçon porte son imperméable jaune.|L\'imperméable est utile par temps gris.|La promeneuse enfile son imperméable à capuche.|Le tissu de l\'imperméable est sec.|Cet imperméable est très léger.</item>
+        <item>Les imperméables longs protègent bien les jambes.|Les enfants portent leurs imperméables.|On choisit des imperméables pour naviguer.|Ces imperméables sombres sont plus discrets.|Les fermetures de ces imperméables sont étanches.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_40">
+        <item>botte</item>
+        <item>une botte</item>
+        <item>des bottes</item>
+        <item>Un insecte est entré dans ma botte.|La botte en caoutchouc est très résistante.|L\'enfant enlève sa botte devant la porte.|Le fermier ne retrouve pas sa botte gauche.|Chaque botte est bien propre.</item>
+        <item>Le cavalier met ses bottes pour marcher sur la boue.|Les bottes de paille sont empilées dans le champ.|Tes bottes attendent dans l\'entrée.|On chausse les bottes pour aller au jardin.|Les bottes fourrées sont très chaudes.|Les pointures des bottes sont marquées en dessous.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_41">
+        <item>manteau</item>
+        <item>un manteau</item>
+        <item>des manteaux</item>
+        <item>Le manteau d\'hiver est très épais.|Le skieur boutonne son manteau de laine.|La secrétaire accroche son manteau au cintre.|Le manteau protège bien du vent.|Ce long manteau est noir.</item>
+        <item>Elle s\'achète des manteaux pour se protéger du froid.|Je ne retrouve pas mes manteaux.|On porte les manteaux quand le gel arrive.|Les manteaux de fourrure sont synthétiques.|Les cols des manteaux sont larges.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_42">
+        <item>gant</item>
+        <item>un gant</item>
+        <item>des gants</item>
+        <item>Le mécanicien enfile un gant à chaque main.|Le gant en cuir est très souple.|La voyageuse a perdu un gant dans le bus.|Le gant de boxe est très épais.|Ce gant est percé au bout.</item>
+        <item>Les gants de boxe sont très rembourrés.|Les gants tiennent chaud en hiver.|On utilise des gants pour sortir le plat du four.|Les gants de jardinage sont robustes.|Les paires de ces gants sont dépareillées.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_43">
+        <item>bonnet</item>
+        <item>un bonnet</item>
+        <item>des bonnets</item>
+        <item>Le bébé porte un bonnet sur la tête.|Le bonnet de laine est rouge.|La skieuse tire son bonnet sur ses oreilles.|Le bonnet cache mes cheveux.|Ce bonnet est très confortable.</item>
+        <item>Les bonnets de bain sont obligatoires à la piscine.|Les bonnets protègent la tête du froid.|On tricote des bonnets pour les bébés.|Les bonnets de nuit sont en coton.|Les tailles des bonnets varient.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_44">
+        <item>écharpe</item>
+        <item>une écharpe</item>
+        <item>des écharpes</item>
+        <item>L\'étudiant enroule son écharpe au cou.|Son écharpe est légère.|La grand-mère tricote une écharpe rayée.|Cette écharpe est très longue.|L\'écharpe est assortie au gant.</item>
+        <item>Les écharpes de soie sont très douces.|Certaines écharpes tricolores sont portées par les maires.|On noue les écharpes autour du cou.|Les écharpes de laine grattent un peu.|Les franges des écharpes sont jolies.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_45">
+        <item>prévision</item>
+        <item>une prévision</item>
+        <item>des prévisions</item>
+        <item>La prévision pour demain est bonne.|Le pilote lit la prévision sur son mobile.|La prévision météo peut changer.|La présentatrice suit la prévision avec attention.|Chaque prévision aide au départ.</item>
+        <item>Les prévisions budgétaires sont en hausse.|Les prévisions de croissance sont publiées.|On ajuste les prévisions chaque semaine.|Les prévisions sur la pluie se sont réalisées.|Les graphiques de ces prévisions sont clairs.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_46">
+        <item>reflet</item>
+        <item>un reflet</item>
+        <item>des reflets</item>
+        <item>Le reflet du soleil brille sur l\'eau.|Le coiffeur admire son reflet dans la glace.|Le reflet de la lune est visible sur le lac.|La petite fille voit le reflet du nuage.|Chaque reflet anime le paysage.</item>
+        <item>Les reflets des enfants appraissent dans le miroir.|Les reflets changeants intriguent les enfants.|On observe les reflets dans la vitrine.|Les reflets des bougies sont chaleureux.|Le lac construit un autre monde avec les reflets des objets environnants.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_47">
+        <item>abri</item>
+        <item>un abri</item>
+        <item>des abris</item>
+        <item>Le passant se met à l\'abri sous le toit.|L\'abri de bus protège de la pluie.|La voyageuse cherche un abri contre le vent.|L\'animal trouve un abri dans le bois.|Cet abri est solide et sec.</item>
+        <item>Les abris de jardin contiennent les outils.|Les abris côtiers accueillent les navires.|On construit des abris avec des planches.|Les abris naturels sont souvent des grottes.|Les toitures de nos abris sont en tôle.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_48">
+        <item>ski</item>
+        <item>un ski</item>
+        <item>des skis</item>
+        <item>Le champion fait du ski sur la neige fraiche.|Le ski de fond est fatiguant.|La vacancière prépare son matériel de ski.|La station de ski ouvre demain.|Ton ami descend la piste en ski.</item>
+        <item>Les skis de slalom sont très courts.|Certains skis sont très légers.|On fart ces skis pour mieux glisser.|Des skis nautiques sont utilisés sur le lac.|Les fixations des skis sont réglées.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_49">
+        <item>voile</item>
+        <item>une voile</item>
+        <item>des voiles</item>
+        <item>Le plaisancier pratique la voile tout l\'été.|La voile du bateau se gonfle.|Ma sœur prend un cours de voile.|Le club de voile est sur la plage.|La voile blanche brille au soleil.</item>
+        <item>Les voiles de mariées sont souvent en dentelle.|Les voiles de brume couvrent la vallée.|On hisse les voiles au petit matin.|Les voiles d\'ombrage protègent la terrasse.|Les tissus des voiles sont fins.</item>
+    </string-array>
+
+    <string-array name="mots_dictees_mots_them_23_50">
+        <item>baignade</item>
+        <item>une baignade</item>
+        <item>des baignades</item>
+        <item>La baignade est interdite ici.|Le nageur adore la baignade en mer.|La baignade rafraichit pendant l\'été.|Un agent de police surveille la baignade des petits.|La baignade est calme aujourd\'hui.</item>
+        <item>Les baignades en rivière sont parfois dangereuses.|Les baignades nocturnes sont organisées.|On interdit les baignades après l\'orage.|Les baignades quotidiennes maintiennent en forme.|Les zones des baignades sont délimitées.</item>
+    </string-array>
+</resources>
+
+
+<!--
+mots invariables supplémentaires :
+à moins que
+en particulier
+tout de suite
+tout à coup
+rapidement
+visiblement
+assurément
+réellement
+-->
+
+
+

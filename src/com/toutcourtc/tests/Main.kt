@@ -3,6 +3,8 @@ package com.toutcourtc.tests
 
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
+import com.toutcourtc.tests.customdebug.ErrorSearchManager.Companion.searchApostrophes
+import com.toutcourtc.tests.customdebug.ErrorSearchManager.Companion.searchGuillemets
 import com.toutcourtc.tests.managers.FileManager.Companion.getFile
 import com.toutcourtc.tests.managers.StringManager.Companion.triFr
 import com.toutcourtc.tests.verbes.AppelerJeter.Companion.appelerJeter
@@ -23,9 +25,25 @@ val verbesAccents = (eler + eter + erer + exxer).values.filter{it.endsWith("aien
 
 fun main() {
 
-    val l = "#oiuyt"
-    println(l.split("#"))
+    var nom = "Chams"
+    println(nom.split("|"))
 
+//    searchApostrophes("sujets_edl_dictees_dictees_mots_thematiques_3.xml", "files")
+//    searchGuillemets("sujets_edl_dictees_dictees_mots_thematiques_1.xml", "files")
+//    searchGuillemets("sujets_edl_dictees_dictees_mots_thematiques_2.xml", "files")
+//    searchGuillemets("sujets_edl_dictees_dictees_mots_thematiques_3.xml", "files")
+
+}
+private fun motsInvariablesClean(){
+    val file = getFile("mots_invariables.txt", "assets")
+    val mots = file?.readLines()?.map{it.trim()}?.filter{it.isNotEmpty()}?.toSet()?.toList()
+    val output = getFile("mots_invariables.txt", "output")
+
+    var data = ""
+    mots!!.forEachIndexed{ i, mot ->
+        data += "${i+1}. $mot\n"
+    }
+    output!!.writeText(data.trim())
 }
 private fun findAyer(){
     val output = getFile("ayer.txt", "output")
